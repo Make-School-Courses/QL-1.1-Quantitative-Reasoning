@@ -1,4 +1,4 @@
-# Title
+# Math 1450 Mathematical Thinking and Quantitative Reasoning
 
 ## Course Description
 
@@ -10,70 +10,40 @@ Explain why students should care to learn the material presented in this class.
 
 ## Prerequisites:  
 
-- [Prerequisite 1]()
-- [Prerequisite 2]()
+None
 
 ## Learning Outcomes
 
-**[INSTRUCTOR NOTE: PLEASE LIST (3-5) LEARNING OUTCOMES]**
-
 By the end of the course, you will be able to ...
 
-1. Identify & Describe
-1. Explain
-1. Compare & Contrast
-1. Design & Implement
-1. Practice
+1. Develop capacities ofquantitative reasoning to interpret, analyze, apply, and explain data (information) presented in mathematical forms.
+1. Recognize and evaluate assumptions in estimation, modeling, and data analysis.
+1. Calculate mathematical problems and communicate quantitative evidence in support of an argument.
+1. Apply quantitative reasoning skills using data analysis, probability, and statistics through examples related to current world debates, inquiries, and problems.
+1. Gain and act with confidence to work through problems using quantitative reasoning.
 
 ## Schedule
 
-**NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This schedule compression is to ensure that we cover the same material that we normally would in non-summer terms.
+**Course Dates:** Friday, August 30 – Friday, December 13, 2019 
 
----
-### **[INSTRUCTOR NOTE: PLEASE REMOVE THIS BEFORE JULY 7]**
-If you teach **M/W** or **Tu/Th**, please pick from a template below and delete the other one
+**Class Times:** Friday at 10:00am–12:50pm (14 class sessions)
 
----
-### M/W Template **[PLEASE REMOVE THIS HEADER BEFORE JULY 7]**
-**Course Dates:** Wednesday, July 8 – Wednesday, August 14, 2019 (6 weeks)
-
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (12 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Mon, July 8                          | [Lesson 1] |
-|  2 |   Wed, July 10                            | [Lesson 2] |
-|  3 |   Mon, July 15                        | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
-|  4 |   Wed, July 17                            | [Lesson 5] |
-|  5 |   Mon, July 22                         | [Lesson 6] |
-|  6 |   Wed, July 24                            | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
-|  7 |   Mon, July 29                         | [Lesson 9] |
-|  8 |   Wed, July 31                            | [Lesson 10] |
-| 9 |   Mon, August 5                           | [Lesson 11] |
-| 10 |   Wed, August 7                             | [Lesson 12] |  
-| 11 |   Mon, August 12                         | [Lesson 13]|
-| 12 |   Wed, August 14                         | Final Exam/Presentations  |
-
-
-### Tu/Th Template **[PLEASE REMOVE THIS HEADER BEFORE JULY 7]**
-**Course Dates:** Tuesday, July 9 – Thursday, August 15, 2019 (6 weeks)
-
-**Class Times:** Tuesday and Thursday at 3:30–5:20pm (12 class sessions)
-
-| Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Tue, July 9                      | [Lesson 1] |
-|  2 |   Thu, July 11                        | [Lesson 2] |
-|  3 |   Tue, July 16                    | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
-|  4 |   Thu, July 18                        | [Lesson 5] |
-|  5 |   Tue, July 23                     | [Lesson 6] |
-|  6 |   Thu, July 25                        | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
-|  7 |   Tue, July 30                     | [Lesson 9] |
-|  8 |   Thu, August 1                        | [Lesson 10] |
-| 9 |   Tue, August 6                       | [Lesson 11] |
-| 10 |   Thu, August 8                         | [Lesson 12] |  
-| 11 |   Tue, August 13                     | [Lesson 13]|
-| 12 |   Thu, August 15                     | Final Exam/Presentations  |
+| Class |                 Topics                  |
+|:-----:|:---------------------------------------:|
+|  1              | [Lesson 1] |
+|  2                 | [Lesson 2] |
+|  3             | [Lesson 3]|
+|  4                 | [Lesson 4] |
+|  5              | [Lesson 5] |
+|  6                 | [Lesson 6] |
+|  7              | [Lesson 7] |
+|  8                  | [Lesson 8] |
+| 9                | [Lesson 9] |
+| 10                   | [Lesson 10] |  
+| 11                | [Lesson 11]|
+| 12                | [Lesson 12]  |
+| 13                | [Lesson 13]  |
+| 14                | Final Exam  |
 
 
 [Lesson 1]: Lessons/Lesson1.md
