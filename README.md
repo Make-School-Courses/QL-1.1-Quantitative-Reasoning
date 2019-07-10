@@ -2,11 +2,9 @@
 
 ## Course Description
 
-Describe your course here. A short elevator pitch for the course, use positive, friendly language to get students excited to take your course. Use of I/you/we should be used over instructor/students.
+The goal of Mathematical Thinking and Quantitative Reasoning is to help you develop intellectual mathematical abilities, and see mathematics as a method to address current problems. You will use Tukey’s state of the art data exploratory methods to analyze real data and learn from your findings.
 
-### Why you should know this (optional)
-
-Explain why students should care to learn the material presented in this class.
+Understanding how people learn from data will change the way we think about the world. The topics you learn in this class will also help prepare you for mathmateical concepts in your technical classes, particularly those related to data science.
 
 ## Prerequisites:  
 
@@ -16,7 +14,7 @@ None
 
 By the end of the course, you will be able to ...
 
-1. Develop capacities ofquantitative reasoning to interpret, analyze, apply, and explain data (information) presented in mathematical forms.
+1. Develop capacities of quantitative reasoning to interpret, analyze, apply, and explain data (information) presented in mathematical forms.
 1. Recognize and evaluate assumptions in estimation, modeling, and data analysis.
 1. Calculate mathematical problems and communicate quantitative evidence in support of an argument.
 1. Apply quantitative reasoning skills using data analysis, probability, and statistics through examples related to current world debates, inquiries, and problems.
@@ -30,19 +28,19 @@ By the end of the course, you will be able to ...
 
 | Class |                 Topics                  |
 |:-----:|:---------------------------------------:|
-|  1              | [Lesson 1] |
-|  2                 | [Lesson 2] |
-|  3             | [Lesson 3]|
-|  4                 | [Lesson 4] |
-|  5              | [Lesson 5] |
-|  6                 | [Lesson 6] |
-|  7              | [Lesson 7] |
-|  8                  | [Lesson 8] |
-| 9                | [Lesson 9] |
-| 10                   | [Lesson 10] |  
-| 11                | [Lesson 11]|
-| 12                | [Lesson 12]  |
-| 13                | [Lesson 13]  |
+|  1              | Discrete Math, Combinatorics |
+|  2                 | Functions, Derivative, Partial Derivative, Newton methods |
+|  3             | Vector, Matrix, Vector-Matrix Multiplication |
+|  4                 | Determinant of a matrix, inverse-of a matrix |
+|  5              | Eigenvalue and Eigenvector, Norms of vector and matrix |
+|  6                 | Probability, Bayes rule, Conditional Probability |
+|  7              | Histogram, pdf, cdf |
+|  8                  | Mean, Median, Mode, Standard deviation, variance, Percentile, Correlation and Covariance |
+| 9                | Exploratory Data Analysis: graphical techniques |
+| 10                   | Exploratory Data Analysis: Dimensionality Reduction |  
+| 11                | Linear Regression, Logistic Regression |
+| 12                | Lab/Project Work day  |
+| 13                | Review for Final  |
 | 14                | Final Exam  |
 
 
