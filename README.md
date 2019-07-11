@@ -27,37 +27,24 @@ By the end of the course, you will be able to ...
 **Class Times:** Friday at 10:00am–12:50pm (14 class sessions)
 
 | Class |                 Topics                  |
-|:-----:|:---------------------------------------:|
-|  1              | Discrete Math, Combinatorics |
-|  2                 | Functions, Derivative, Partial Derivative, Newton methods |
-|  3             | Vector, Matrix, Vector-Matrix Multiplication |
-|  4                 | Determinant of a matrix, inverse-of a matrix |
-|  5              | Eigenvalue and Eigenvector, Norms of vector and matrix |
-|  6                 | Probability, Bayes rule, Conditional Probability |
-|  7              | Histogram, pdf, cdf |
-|  8                  | Mean, Median, Mode, Standard deviation, variance, Percentile, Correlation and Covariance |
-| 9                | Exploratory Data Analysis: graphical techniques |
-| 10                   | Exploratory Data Analysis: Dimensionality Reduction |  
-| 11                | Linear Regression, Logistic Regression |
-| 12                | Lab/Project Work day  |
-| 13                | Review for Final  |
+|-----:|:---------------------------------------|
+|  1              | **Data Analysis:** Mean, Median, Mode, Standard deviation |
+|  2                 | **Relationships in Data:** Variance, Percentile, Correlation and Covariance |
+|  3             | **Data Visualization:** histograms, charts, plots |
+|  4                 | **Intro to Probability** |
+|  5              | **Handling Randomness in Probability:** PDF, CDF |
+|  6                 | **Permutations and Combinations:** Discrete Math, Combinatorics  |
+|  7              |  **Finding the Max/Min of a Function:** Derivatives |
+|  8                  |  **Simplifying Complex Systems:** Vector, Matrix, Vector-Matrix Multiplication|
+| 9                | **Describing and Measuring Data Variance:** Eigenvalue and Eigenvector, Norms of vector and matrix  |
+| 10                   | **How Events Determine Other Events:** Bayes rule, Conditional Probability |  
+| 11                | **Reducing The Amount of Random:** Dimensionality Reduction |
+| 12                | **Intro to Data Science:** Linear Regression, Logistic Regression |
+| 13                | Lab/Project Work day |
 | 14                | Final Exam  |
 
 
-[Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
-[Lesson 5]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
-[Lesson 7]: Lessons/Lesson7.md
-[Lesson 8]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
-
+ 
 ## Class Assignments
 
 ### Homework
@@ -95,7 +82,7 @@ You will present the data, findings, and analysis through a blog post. Note that
 ## Evaluation
 To pass this course you must meet the following requirements:
 
-- Complete all required assignments 
+- Complete all required assignments, including Homework, the Data Analysis Project, and the  Math & Social Issues Project
 - Pass all projects according to the associated project rubric
 - Pass the final summative assessment according to the rubric as specified in this class
     - This will be further explained in the [study guide](ADD_STUDY_GUIDE_LNK)
