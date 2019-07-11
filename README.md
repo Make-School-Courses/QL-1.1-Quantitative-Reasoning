@@ -60,14 +60,37 @@ By the end of the course, you will be able to ...
 
 ## Class Assignments
 
-### Tutorials
+### Homework
 
-- [Do Cool Stuff Tutorial]()
+You will receive homework assignments after each class session based on the topics covered in that day's class. Homework will be due the following class date.
 
-### Projects
+### Data Analysis Project
 
-- [Project Template - Use to build your own project spec](https://docs.google.com/document/d/1j4ualsYjrd-7ePdyP3KU03xrpg41k1AoSU0YKkx9_I8/edit?usp=sharing)
-    -   [Sample Project Rubric](Sample_Rubric.md)
+Pick a dataset from the below options, and answer a question you have about the data set. What's your hypothesis? Using the techniques you learned in class, analyze the dataset to seek an answer to your question. Expect to write up a report on your findings and submit them as a google doc to the progress tracker.
+
+**List of datasets:**
+
+- TBD
+- TBD
+- TBD
+
+**Project Due Date:** TBD 
+
+### Math & Social Issues Project
+
+You will pair up with a fellow student and work on a project that uses the math concepts learned in class to analyze a social issue of their choosing. Examples are given below:
+
+- Which neighborhoods in San Francisco (or other city) have the highest rates of incarcerated youth, and what is the economic and demographic data of these communities?
+- Does race determine who gets mortgage loan in Los Angeles?
+- What percentage of taxes is going to each branch of government, and how is that money currently being used? How could it be used?
+
+You will present the data, findings, and analysis through a blog post. Note that your **topic must be approved by the instructor before working on it.**
+
+**Project Proposal Due Date:** TBD
+
+**Project Due Date:** TBD
+
+**Blog Post Due Date:** TBD
 
 ## Evaluation
 To pass this course you must meet the following requirements:
