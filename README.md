@@ -2,9 +2,7 @@
 
 ## Course Description
 
-The goal of Mathematical Thinking and Quantitative Reasoning is to help you develop intellectual mathematical abilities, and see mathematics as a method to address current problems. You will use Tukey’s state of the art data exploratory methods to analyze real data and learn from your findings.
-
-Understanding how people learn from data will change the way we think about the world. The topics you learn in this class will also help prepare you for mathmateical concepts in your technical classes, particularly those related to data science.
+The goal of Mathematical Thinking and Quantitative Reasoning is to help students develop intellectual mathematical abilities as well as see mathematics as a method to address current problems including social problems. Understanding how people learn from data will change the way students think about the world. Students will use state of the art data exploratory methods to analyze real data. Topics will include modern statistical reasoning, statistical modeling, linear regression, statistical inference, logarithmic and exponential modeling, and the conditions for inference which must hold in order to use statistical procedures.  Other topics include logical reasoning, analysis of arguments, probability.
 
 ## Prerequisites:  
 
