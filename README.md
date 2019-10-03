@@ -1,4 +1,4 @@
-# Math 1450 Mathematical Thinking and Quantitative Reasoning
+# QL 1.1 - Mathematical Thinking and Quantitative Reasoning
 
 ## Course Description
 
