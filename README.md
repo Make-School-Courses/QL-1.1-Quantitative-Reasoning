@@ -20,26 +20,28 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Friday, August 30 – Friday, December 13, 2019 
+**Course Dates:** Tuesday, October 22 – Thursday, December 12, 2019 (8 weeks)
 
-**Class Times:** Friday at 10:00am–12:50pm (14 class sessions)
+**Class Times:** Tuesday and Thursday at 1:30–3:20pm (15 class sessions)
 
-| Class |                 Topics                  |
-|-----:|:---------------------------------------|
-|  1              | **Data Analysis:** Mean, Median, Mode, Standard deviation |
-|  2                 | **Relationships in Data:** Variance, Percentile, Correlation and Covariance |
-|  3             | **Data Visualization:** histograms, charts, plots |
-|  4                 | **Intro to Probability** |
-|  5              | **Handling Randomness in Probability:** PDF, CDF |
-|  6                 | **Permutations and Combinations:** Discrete Math, Combinatorics  |
-|  7              |  **Finding the Max/Min of a Function:** Derivatives |
-|  8                  |  **Simplifying Complex Systems:** Vector, Matrix, Vector-Matrix Multiplication|
-| 9                | **Describing and Measuring Data Variance:** Eigenvalue and Eigenvector, Norms of vector and matrix  |
-| 10                   | **How Events Determine Other Events:** Bayes rule, Conditional Probability |  
-| 11                | **Reducing The Amount of Random:** Dimensionality Reduction |
-| 12                | **Intro to Data Science:** Linear Regression, Logistic Regression |
-| 13                | Lab/Project Work day |
-| 14                | Final Exam  |
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |   Tue, Oct 22             | **Data Analysis:** Mean, Median, Mode, Standard deviation |
+|  2 |   Thu, Oct 24             | **Relationships in Data:** Variance, Percentile, Correlation and Covariance |
+|  3 |   Tue, Oct 29             | **Data Visualization:** histograms, charts, plots |
+|  4 |   Thu, Oct 31             | **Intro to Probability** |
+|  5 |   Tue, Nov 5              | **Handling Randomness in Probability:** PDF, CDF |
+|  6 |   Thu, Nov 7              | **Permutations and Combinations:** Discrete Math, Combinatorics  |
+|  7 |   Tue, Nov 12             |  **Finding the Max/Min of a Function:** Derivatives |
+|  8 |   Thu, Nov 14             |  **Simplifying Complex Systems:** Vector, Matrix, Vector-Matrix Multiplication|
+|  9 |   Tue, Nov 19             | **Describing and Measuring Data Variance:** Eigenvalue and Eigenvector, Norms of vector and matrix  |
+| 10 |   Thu, Nov 21             | **How Events Determine Other Events:** Bayes rule, Conditional Probability |  
+| 11 |   Tue, Nov 26             | **Reducing The Amount of Random:** Dimensionality Reduction |
+| -  |   Thu, Nov 28             | **NO CLASS** - Thanksgiving  |
+| 12 |   Tue, Dec 3              | **Intro to Data Science:** Linear Regression, Logistic Regression |
+| 13 |   Thu, Dec 5              | Lab/Project Work day |
+| 14 |   Tue, Dec 10             | Lab/Project Work day  |
+| 15 |   Thu, Dec 12             | Final Exam  |
 
 
  
@@ -89,11 +91,11 @@ To pass this course you must meet the following requirements:
 
 ## Make School Course Policies
 
-- [Program Learning Outcomes](https://make.sc/program-learning-outcomes)
-- [Grading System](https://make.sc/grading-system)
-- [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement)
-- [Academic Honesty](https://make.sc/academic-honesty-policy)
-- [Attendance Policy](https://make.sc/attendance-policy)
-- [Course Credit Policy](https://make.sc/course-credit-policy)
-- [Disability Services (Academic Accommodations)](https://make.sc/disability-services)
-- [Student Handbook](https://make.sc/student-handbook)
+- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
+- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
+- [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement) - Learn about Diversity and Inclusion at Make School
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct 
+- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
+- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
+- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
+- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
