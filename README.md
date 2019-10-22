@@ -26,7 +26,7 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Tue, Oct 22             | **Data Analysis:** Mean, Median, Mode, Standard deviation |
+|  1 |   Tue, Oct 22             | **[Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
 |  2 |   Thu, Oct 24             | **[Relationships in Data:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Variance, Percentile, Correlation and Covariance |
 |  3 |   Tue, Oct 29             | **[Data Visualizations:](./Notebooks/visualizations/visualizations_in_data.ipynb)** histograms, charts, plots |
 |  4 |   Thu, Oct 31             | **[Intro to Probability](./Notebooks/Probability.ipynb)** |
