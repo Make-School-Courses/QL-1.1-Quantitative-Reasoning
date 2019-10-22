@@ -42,9 +42,6 @@ By the end of the course, you will be able to ...
 | 13 |   Thu, Dec 5              | **Intro to Vectors and  Matrix Multiplication** |
 | 14 |   Tue, Dec 10             | Lab/Project Work day  |
 | 15 |   Thu, Dec 12             | Final Exam  |
-
-
-**Permutations and Combinations:** Discrete Math, Combinatorics
  
 
 
