@@ -26,22 +26,26 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Tue, Oct 22             | **[Intro to QL](https://docs.google.com/presentation/d/10puex-O20RivRpA9g6hSRr9VMEm4Ebbx5LqhmK1jXvw/edit?usp=sharing) + [Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
-|  2 |   Thu, Oct 24             | **[Relationships in Data:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Variance, Percentile, Correlation and Covariance |
-|  3 |   Tue, Oct 29             | **[Data Visualizations:](./Notebooks/visualizations/visualizations_in_data.ipynb)** histograms, charts, plots |
-|  4 |   Thu, Oct 31             | **[Intro to Probability](./Notebooks/Probability.ipynb)** |
-|  5 |   Tue, Nov 5              | **[Handling Randomness in Probability:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDF, CDF |
-|  6 |   Thu, Nov 7              | **Permutations and Combinations:** Discrete Math, Combinatorics  |
-|  7 |   Tue, Nov 12             |  **Finding the Max/Min of a Function:** Derivatives |
-|  8 |   Thu, Nov 14             |  **Simplifying Complex Systems:** Vector, Matrix, Vector-Matrix Multiplication|
-|  9 |   Tue, Nov 19             | **Describing and Measuring Data Variance:** Eigenvalue and Eigenvector, Norms of vector and matrix  |
-| 10 |   Thu, Nov 21             | **How Events Determine Other Events:** Bayes rule, Conditional Probability |  
-| 11 |   Tue, Nov 26             | **Reducing The Amount of Random:** Dimensionality Reduction |
+|  1 |   Tue, Oct 22             | **[Intro to QL](https://docs.google.com/presentation/d/10puex-O20RivRpA9g6hSRr9VMEm4Ebbx5LqhmK1jXvw/edit?usp=sharing)** |
+|  2 |   Thu, Oct 24             | **[Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
+|  3 |   Tue, Oct 29             | **[Relationships in Data, Pt 1:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Variance and Percentiles |
+|  4 |   Thu, Oct 31             | **[Relationships in Data, Pt 2:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Correlation and Covariance |
+|  5 |   Tue, Nov 5              | **[Data Visualizations:](./Notebooks/visualizations/visualizations_in_data.ipynb)** histograms, charts, plots |
+|  6 |   Thu, Nov 7              | **[Intro to Probability](./Notebooks/Probability.ipynb)**  |
+|  7 |   Tue, Nov 12             | **Conditional Probability:** How Events Determine Other Events |
+|  8 |   Thu, Nov 14             | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
+|  9 |   Tue, Nov 19             | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
+| 10 |   Thu, Nov 21             | **How Numbers Deceive** |  
+| 11 |   Tue, Nov 26             | **Finding the Max/Min of a Function:** Derivatives |
 | -  |   Thu, Nov 28             | **NO CLASS** - Thanksgiving  |
-| 12 |   Tue, Dec 3              | **Intro to Data Science:** Linear Regression, Logistic Regression |
-| 13 |   Thu, Dec 5              | Lab/Project Work day |
+| 12 |   Tue, Dec 3              | **Intro to Data Science:** Linear Regression |
+| 13 |   Thu, Dec 5              | **Intro to Vectors and  Matrix Multiplication** |
 | 14 |   Tue, Dec 10             | Lab/Project Work day  |
 | 15 |   Thu, Dec 12             | Final Exam  |
+
+
+**Permutations and Combinations:** Discrete Math, Combinatorics
+ 
 
 
  
