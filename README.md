@@ -50,35 +50,32 @@ By the end of the course, you will be able to ...
 
 ### Homework
 
-You will receive homework assignments after each class session based on the topics covered in that day's class. Homework will be due the following class date.
+There will be **3 homework assignments** for this course.
 
-### Data Analysis Project
+#### Homework 1
 
-Pick a dataset from the below options, and answer a question you have about the data set. What's your hypothesis? Using the techniques you learned in class, analyze the dataset to seek an answer to your question. Expect to write up a report on your findings and submit them as a google doc to the progress tracker.
+**Due Date:** TBD
 
-**List of datasets:**
+**Description:** TBD
 
-- TBD
-- TBD
-- TBD
+#### Homework 2
 
-**Project Due Date:** TBD 
+**Due Date:** TBD
 
-### Math & Social Issues Project
+**Description:** TBD
 
-You will pair up with a fellow student and work on a project that uses the math concepts learned in class to analyze a social issue of their choosing. Examples are given below:
+#### Homework 3
 
-- Which neighborhoods in San Francisco (or other city) have the highest rates of incarcerated youth, and what is the economic and demographic data of these communities?
-- Does race determine who gets mortgage loan in Los Angeles?
-- What percentage of taxes is going to each branch of government, and how is that money currently being used? How could it be used?
+**Due Date:** TBD
 
-You will present the data, findings, and analysis through a blog post. Note that your **topic must be approved by the instructor before working on it.**
+**Description:** TBD
 
-**Project Proposal Due Date:** TBD
+### Final Project
 
-**Project Due Date:** TBD
+**Due Date:** TBD
 
-**Blog Post Due Date:** TBD
+**Description:** TBD
+
 
 ## Evaluation
 To pass this course you must meet the following requirements:
