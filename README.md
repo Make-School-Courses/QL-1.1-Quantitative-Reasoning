@@ -26,58 +26,35 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Tue, Oct 22             | **[Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
-|  2 |   Thu, Oct 24             | **[Relationships in Data:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Variance, Percentile, Correlation and Covariance |
-|  3 |   Tue, Oct 29             | **[Data Visualizations:](./Notebooks/visualizations/visualizations_in_data.ipynb)** histograms, charts, plots |
-|  4 |   Thu, Oct 31             | **[Intro to Probability](./Notebooks/Probability.ipynb)** |
-|  5 |   Tue, Nov 5              | **[Handling Randomness in Probability:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDF, CDF |
-|  6 |   Thu, Nov 7              | **Permutations and Combinations:** Discrete Math, Combinatorics  |
-|  7 |   Tue, Nov 12             |  **Finding the Max/Min of a Function:** Derivatives |
-|  8 |   Thu, Nov 14             |  **Simplifying Complex Systems:** Vector, Matrix, Vector-Matrix Multiplication|
-|  9 |   Tue, Nov 19             | **Describing and Measuring Data Variance:** Eigenvalue and Eigenvector, Norms of vector and matrix  |
-| 10 |   Thu, Nov 21             | **How Events Determine Other Events:** Bayes rule, Conditional Probability |  
-| 11 |   Tue, Nov 26             | **Reducing The Amount of Random:** Dimensionality Reduction |
+|  1 |   Tue, Oct 22             | **[Intro to QL](https://docs.google.com/presentation/d/10puex-O20RivRpA9g6hSRr9VMEm4Ebbx5LqhmK1jXvw/edit?usp=sharing)** |
+|  2 |   Thu, Oct 24             | **[Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
+|  3 |   Tue, Oct 29             | **[Relationships in Data, Pt 1:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Variance and Percentiles |
+|  4 |   Thu, Oct 31             | **[Relationships in Data, Pt 2:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Correlation and Covariance |
+|  5 |   Tue, Nov 5              | **[Data Visualizations:](./Notebooks/visualizations/visualizations_in_data.ipynb)** histograms, charts, plots |
+|  6 |   Thu, Nov 7              | **[Intro to Probability](./Notebooks/Probability.ipynb)**  |
+|  7 |   Tue, Nov 12             | **Conditional Probability:** How Events Determine Other Events |
+|  8 |   Thu, Nov 14             | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
+|  9 |   Tue, Nov 19             | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
+| 10 |   Thu, Nov 21             | **Finding the Max/Min of a Function:** Derivatives |  
+| 11 |   Tue, Nov 26             | **Intro to Data Science:** Linear Regression |
 | -  |   Thu, Nov 28             | **NO CLASS** - Thanksgiving  |
-| 12 |   Tue, Dec 3              | **Intro to Data Science:** Linear Regression, Logistic Regression |
-| 13 |   Thu, Dec 5              | Lab/Project Work day |
+| 12 |   Tue, Dec 3              | **How Numbers Deceive** |
+| 13 |   Thu, Dec 5              | **Intro to Vectors and  Matrix Multiplication** |
 | 14 |   Tue, Dec 10             | Lab/Project Work day  |
-| 15 |   Thu, Dec 12             | Final Exam  |
-
-
+| 15 |   Thu, Dec 12             | Final Exam + Final Project Due |
  
-## Class Assignments
 
-### Homework
+## Assignment Schedule 
 
-You will receive homework assignments after each class session based on the topics covered in that day's class. Homework will be due the following class date.
+|                        Assignment             | Date Assigned |   Due Date   |            Submission Form                   |
+|:---------------------------------------------:|:-------------:|:------------:|:--------------------------------------------:|
+| Homework 1 - Correlation and Covariance       |  Thu, Oct 31  |  Thu, Nov 7  | [Place GitHub link in the progress tracker]  | 
+| Homework 2 - Probability                      |  Thu, Nov 7   |  Thu, Nov 14 | [Place GitHub link in the progress tracker]  | 
+| Homework 3 - TBD                              |  Thu, Nov 14  |  Thu, Nov 21 | [Place GitHub link in the progress tracker]  | 
+| Final Project                                 |  Tue, Nov 26  |  Thu, Dec 12 | [Place GitHub link in the progress tracker]  | 
 
-### Data Analysis Project
 
-Pick a dataset from the below options, and answer a question you have about the data set. What's your hypothesis? Using the techniques you learned in class, analyze the dataset to seek an answer to your question. Expect to write up a report on your findings and submit them as a google doc to the progress tracker.
-
-**List of datasets:**
-
-- TBD
-- TBD
-- TBD
-
-**Project Due Date:** TBD 
-
-### Math & Social Issues Project
-
-You will pair up with a fellow student and work on a project that uses the math concepts learned in class to analyze a social issue of their choosing. Examples are given below:
-
-- Which neighborhoods in San Francisco (or other city) have the highest rates of incarcerated youth, and what is the economic and demographic data of these communities?
-- Does race determine who gets mortgage loan in Los Angeles?
-- What percentage of taxes is going to each branch of government, and how is that money currently being used? How could it be used?
-
-You will present the data, findings, and analysis through a blog post. Note that your **topic must be approved by the instructor before working on it.**
-
-**Project Proposal Due Date:** TBD
-
-**Project Due Date:** TBD
-
-**Blog Post Due Date:** TBD
+[Place GitHub link in the progress tracker]: https://docs.google.com/spreadsheets/d/1bJ959aAhQbuJBA_vL1uinDgcEM6k7uROHLg_Wh5Ac2Y/edit?usp=sharing
 
 ## Evaluation
 To pass this course you must meet the following requirements:
