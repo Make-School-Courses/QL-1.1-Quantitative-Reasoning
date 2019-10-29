@@ -20,62 +20,41 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Friday, August 30 – Friday, December 13, 2019 
+**Course Dates:** Tuesday, October 22 – Thursday, December 12, 2019 (8 weeks)
 
-**Class Times:** Friday at 10:00am–12:50pm (14 class sessions)
+**Class Times:** Tuesday and Thursday at 1:30–3:20pm (15 class sessions)
 
-| Class |                 Topics                  |
-|-----:|:---------------------------------------|
-|  1              | **Data Analysis:** Mean, Median, Mode, Standard deviation |
-|  2                 | **Relationships in Data:** Variance, Percentile, Correlation and Covariance |
-|  3             | **Data Visualization:** histograms, charts, plots |
-|  4                 | **Intro to Probability** |
-|  5              | **Handling Randomness in Probability:** PDF, CDF |
-|  6                 | **Permutations and Combinations:** Discrete Math, Combinatorics  |
-|  7              |  **Finding the Max/Min of a Function:** Derivatives |
-|  8                  |  **Simplifying Complex Systems:** Vector, Matrix, Vector-Matrix Multiplication|
-| 9                | **Describing and Measuring Data Variance:** Eigenvalue and Eigenvector, Norms of vector and matrix  |
-| 10                   | **How Events Determine Other Events:** Bayes rule, Conditional Probability |  
-| 11                | **Reducing The Amount of Random:** Dimensionality Reduction |
-| 12                | **Intro to Data Science:** Linear Regression, Logistic Regression |
-| 13                | Lab/Project Work day |
-| 14                | Final Exam  |
-
-
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |   Tue, Oct 22             | **[Intro to QL](https://docs.google.com/presentation/d/10puex-O20RivRpA9g6hSRr9VMEm4Ebbx5LqhmK1jXvw/edit?usp=sharing)** |
+|  2 |   Thu, Oct 24             | **[Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
+|  3 |   Tue, Oct 29             | **[Relationships in Data, Pt 1:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Variance and Percentiles |
+|  4 |   Thu, Oct 31             | **[Relationships in Data, Pt 2:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Correlation and Covariance |
+|  5 |   Tue, Nov 5              | **[Data Visualizations:](./Notebooks/visualizations/visualizations_in_data.ipynb)** histograms, charts, plots |
+|  6 |   Thu, Nov 7              | **[Intro to Probability](./Notebooks/Probability.ipynb)**  |
+|  7 |   Tue, Nov 12             | **Conditional Probability:** How Events Determine Other Events |
+|  8 |   Thu, Nov 14             | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
+|  9 |   Tue, Nov 19             | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
+| 10 |   Thu, Nov 21             | **Finding the Max/Min of a Function:** Derivatives |  
+| 11 |   Tue, Nov 26             | **Intro to Data Science:** Linear Regression |
+| -  |   Thu, Nov 28             | **NO CLASS** - Thanksgiving  |
+| 12 |   Tue, Dec 3              | **How Numbers Deceive** |
+| 13 |   Thu, Dec 5              | **Intro to Vectors and  Matrix Multiplication** |
+| 14 |   Tue, Dec 10             | Lab/Project Work day  |
+| 15 |   Thu, Dec 12             | Final Exam + Final Project Due |
  
-## Class Assignments
 
-### Homework
+## Assignment Schedule 
 
-You will receive homework assignments after each class session based on the topics covered in that day's class. Homework will be due the following class date.
+|                        Assignment             | Date Assigned |   Due Date   |            Submission Form                   |
+|:---------------------------------------------:|:-------------:|:------------:|:--------------------------------------------:|
+| Homework 1 - Correlation and Covariance       |  Thu, Oct 31  |  Thu, Nov 7  | [Place GitHub link in the progress tracker]  | 
+| Homework 2 - Probability                      |  Thu, Nov 7   |  Thu, Nov 14 | [Place GitHub link in the progress tracker]  | 
+| Homework 3 - TBD                              |  Thu, Nov 14  |  Thu, Nov 21 | [Place GitHub link in the progress tracker]  | 
+| Final Project                                 |  Tue, Nov 26  |  Thu, Dec 12 | [Place GitHub link in the progress tracker]  | 
 
-### Data Analysis Project
 
-Pick a dataset from the below options, and answer a question you have about the data set. What's your hypothesis? Using the techniques you learned in class, analyze the dataset to seek an answer to your question. Expect to write up a report on your findings and submit them as a google doc to the progress tracker.
-
-**List of datasets:**
-
-- TBD
-- TBD
-- TBD
-
-**Project Due Date:** TBD 
-
-### Math & Social Issues Project
-
-You will pair up with a fellow student and work on a project that uses the math concepts learned in class to analyze a social issue of their choosing. Examples are given below:
-
-- Which neighborhoods in San Francisco (or other city) have the highest rates of incarcerated youth, and what is the economic and demographic data of these communities?
-- Does race determine who gets mortgage loan in Los Angeles?
-- What percentage of taxes is going to each branch of government, and how is that money currently being used? How could it be used?
-
-You will present the data, findings, and analysis through a blog post. Note that your **topic must be approved by the instructor before working on it.**
-
-**Project Proposal Due Date:** TBD
-
-**Project Due Date:** TBD
-
-**Blog Post Due Date:** TBD
+[Place GitHub link in the progress tracker]: https://docs.google.com/spreadsheets/d/1bJ959aAhQbuJBA_vL1uinDgcEM6k7uROHLg_Wh5Ac2Y/edit?usp=sharing
 
 ## Evaluation
 To pass this course you must meet the following requirements:
@@ -89,11 +68,11 @@ To pass this course you must meet the following requirements:
 
 ## Make School Course Policies
 
-- [Program Learning Outcomes](https://make.sc/program-learning-outcomes)
-- [Grading System](https://make.sc/grading-system)
-- [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement)
-- [Academic Honesty](https://make.sc/academic-honesty-policy)
-- [Attendance Policy](https://make.sc/attendance-policy)
-- [Course Credit Policy](https://make.sc/course-credit-policy)
-- [Disability Services (Academic Accommodations)](https://make.sc/disability-services)
-- [Student Handbook](https://make.sc/student-handbook)
+- [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
+- [Grading System](https://make.sc/grading-system) - How grading is done at Make School
+- [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement) - Learn about Diversity and Inclusion at Make School
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct 
+- [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
+- [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
+- [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
+- [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
