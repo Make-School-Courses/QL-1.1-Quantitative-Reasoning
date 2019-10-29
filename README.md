@@ -35,47 +35,26 @@ By the end of the course, you will be able to ...
 |  7 |   Tue, Nov 12             | **Conditional Probability:** How Events Determine Other Events |
 |  8 |   Thu, Nov 14             | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
 |  9 |   Tue, Nov 19             | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
-| 10 |   Thu, Nov 21             | **How Numbers Deceive** |  
-| 11 |   Tue, Nov 26             | **Finding the Max/Min of a Function:** Derivatives |
+| 10 |   Thu, Nov 21             | **Finding the Max/Min of a Function:** Derivatives |  
+| 11 |   Tue, Nov 26             | **Intro to Data Science:** Linear Regression |
 | -  |   Thu, Nov 28             | **NO CLASS** - Thanksgiving  |
-| 12 |   Tue, Dec 3              | **Intro to Data Science:** Linear Regression |
+| 12 |   Tue, Dec 3              | **How Numbers Deceive** |
 | 13 |   Thu, Dec 5              | **Intro to Vectors and  Matrix Multiplication** |
 | 14 |   Tue, Dec 10             | Lab/Project Work day  |
-| 15 |   Thu, Dec 12             | Final Exam  |
+| 15 |   Thu, Dec 12             | Final Exam + Final Project Due |
  
 
+## Assignment Schedule 
 
- 
-## Class Assignments
+|                        Assignment             | Date Assigned |   Due Date   |            Submission Form                   |
+|:---------------------------------------------:|:-------------:|:------------:|:--------------------------------------------:|
+| Homework 1 - Correlation and Covariance       |  Thu, Oct 31  |  Thu, Nov 7  | [Place GitHub link in the progress tracker]  | 
+| Homework 2 - Probability                      |  Thu, Nov 7   |  Thu, Nov 14 | [Place GitHub link in the progress tracker]  | 
+| Homework 3 - TBD                              |  Thu, Nov 14  |  Thu, Nov 21 | [Place GitHub link in the progress tracker]  | 
+| Final Project                                 |  Tue, Nov 26  |  Thu, Dec 12 | [Place GitHub link in the progress tracker]  | 
 
-### Homework
 
-There will be **3 homework assignments** for this course.
-
-#### Homework 1
-
-**Due Date:** TBD
-
-**Description:** TBD
-
-#### Homework 2
-
-**Due Date:** TBD
-
-**Description:** TBD
-
-#### Homework 3
-
-**Due Date:** TBD
-
-**Description:** TBD
-
-### Final Project
-
-**Due Date:** TBD
-
-**Description:** TBD
-
+[Place GitHub link in the progress tracker]: https://docs.google.com/spreadsheets/d/1bJ959aAhQbuJBA_vL1uinDgcEM6k7uROHLg_Wh5Ac2Y/edit?usp=sharing
 
 ## Evaluation
 To pass this course you must meet the following requirements:
