@@ -56,7 +56,7 @@ By the end of the course, you will be able to ...
 [Homework 1 - Correlation and Covariance]: ./Assignments/HW1.ipynb
 [Homework 2 - Probability]: ./Assignments/HW2.ipynb
 
-[Place GitHub link in the progress tracker]: https://docs.google.com/spreadsheets/d/1bJ959aAhQbuJBA_vL1uinDgcEM6k7uROHLg_Wh5Ac2Y/edit?usp=sharing
+[Place GitHub link in the progress tracker]: https://docs.google.com/spreadsheets/d/1T9CU4q9Ijg85fA5XSWPlfqbpSXuGshkL5lF6vAwWwJY/edit?usp=sharing
 
 ## Evaluation
 To pass this course you must meet the following requirements:
