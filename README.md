@@ -49,13 +49,14 @@ By the end of the course, you will be able to ...
 |                        Assignment             | Date Assigned |   Due Date   |            Submission Form                   |
 |:---------------------------------------------:|:-------------:|:------------:|:--------------------------------------------:|
 | [Homework 1 - Correlation and Covariance]     |  Thu, Oct 31  |  Thu, Nov 7  | [Place GitHub link in the progress tracker]  | 
-| Homework 2 - Probability                      |  Thu, Nov 7   |  Thu, Nov 14 | [Place GitHub link in the progress tracker]  | 
+| [Homework 2 - Probability]                    |  Thu, Nov 7   |  Thu, Nov 14 | [Place GitHub link in the progress tracker]  | 
 | Homework 3 - TBD                              |  Thu, Nov 14  |  Thu, Nov 21 | [Place GitHub link in the progress tracker]  | 
 | Final Project                                 |  Tue, Nov 26  |  Thu, Dec 12 | [Place GitHub link in the progress tracker]  | 
 
 [Homework 1 - Correlation and Covariance]: ./Assignments/HW1.ipynb
+[Homework 2 - Probability]: ./Assignments/HW2.ipynb
 
-[Place GitHub link in the progress tracker]: https://docs.google.com/spreadsheets/d/1bJ959aAhQbuJBA_vL1uinDgcEM6k7uROHLg_Wh5Ac2Y/edit?usp=sharing
+[Place GitHub link in the progress tracker]: https://docs.google.com/spreadsheets/d/1T9CU4q9Ijg85fA5XSWPlfqbpSXuGshkL5lF6vAwWwJY/edit?usp=sharing
 
 ## Evaluation
 To pass this course you must meet the following requirements:
