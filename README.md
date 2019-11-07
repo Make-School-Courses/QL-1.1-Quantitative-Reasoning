@@ -32,7 +32,7 @@ By the end of the course, you will be able to ...
 |  4 |   Thu, Oct 31             | **[Relationships in Data, Pt 2:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Correlation and Covariance |
 |  5 |   Tue, Nov 5              | **[Data Visualizations:](./Notebooks/visualizations/visualizations_in_data.ipynb)** histograms, charts, plots |
 |  6 |   Thu, Nov 7              | **[Intro to Probability](./Notebooks/Probability.ipynb)**  |
-|  7 |   Tue, Nov 12             | **[Conditional Probability:](./Notebooks/Conditional_Probability)** How Events Determine Other Events |
+|  7 |   Tue, Nov 12             | **[Conditional Probability:](./Notebooks/Conditional_Probability//Conditional_probability.ipynb)** How Events Determine Other Events |
 |  8 |   Thu, Nov 14             | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
 |  9 |   Tue, Nov 19             | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
 | 10 |   Thu, Nov 21             | **Finding the Max/Min of a Function:** Derivatives |  
