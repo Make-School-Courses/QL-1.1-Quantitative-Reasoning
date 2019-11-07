@@ -32,7 +32,7 @@ By the end of the course, you will be able to ...
 |  4 |   Thu, Oct 31             | **[Relationships in Data, Pt 2:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Correlation and Covariance |
 |  5 |   Tue, Nov 5              | **[Data Visualizations:](./Notebooks/visualizations/visualizations_in_data.ipynb)** histograms, charts, plots |
 |  6 |   Thu, Nov 7              | **[Intro to Probability](./Notebooks/Probability.ipynb)**  |
-|  7 |   Tue, Nov 12             | **Conditional Probability:** How Events Determine Other Events |
+|  7 |   Tue, Nov 12             | **[Conditional Probability:](./Notebooks/Conditional_Probability)** How Events Determine Other Events |
 |  8 |   Thu, Nov 14             | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
 |  9 |   Tue, Nov 19             | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
 | 10 |   Thu, Nov 21             | **Finding the Max/Min of a Function:** Derivatives |  
@@ -42,16 +42,16 @@ By the end of the course, you will be able to ...
 | 13 |   Thu, Dec 5              | **Intro to Vectors and  Matrix Multiplication** |
 | 14 |   Tue, Dec 10             | Lab/Project Work day  |
 | 15 |   Thu, Dec 12             | Final Exam + Final Project Due |
- 
 
-## Assignment Schedule 
+
+## Assignment Schedule
 
 |                        Assignment             | Date Assigned |   Due Date   |            Submission Form                   |
 |:---------------------------------------------:|:-------------:|:------------:|:--------------------------------------------:|
-| [Homework 1 - Correlation and Covariance]     |  Thu, Oct 31  |  Thu, Nov 7  | [Place GitHub link in the progress tracker]  | 
-| [Homework 2 - Probability]                    |  Thu, Nov 7   |  Thu, Nov 14 | [Place GitHub link in the progress tracker]  | 
-| Homework 3 - TBD                              |  Thu, Nov 14  |  Thu, Nov 21 | [Place GitHub link in the progress tracker]  | 
-| Final Project                                 |  Tue, Nov 26  |  Thu, Dec 12 | [Place GitHub link in the progress tracker]  | 
+| [Homework 1 - Correlation and Covariance]     |  Thu, Oct 31  |  Thu, Nov 7  | [Place GitHub link in the progress tracker]  |
+| [Homework 2 - Probability]                    |  Thu, Nov 7   |  Thu, Nov 14 | [Place GitHub link in the progress tracker]  |
+| Homework 3 - TBD                              |  Thu, Nov 14  |  Thu, Nov 21 | [Place GitHub link in the progress tracker]  |
+| Final Project                                 |  Tue, Nov 26  |  Thu, Dec 12 | [Place GitHub link in the progress tracker]  |
 
 [Homework 1 - Correlation and Covariance]: ./Assignments/HW1.ipynb
 [Homework 2 - Probability]: ./Assignments/HW2.ipynb
@@ -73,7 +73,7 @@ To pass this course you must meet the following requirements:
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
 - [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct 
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
