@@ -50,7 +50,7 @@ By the end of the course, you will be able to ...
 |:---------------------------------------------:|:-------------:|:------------:|:--------------------------------------------:|
 | [Homework 1 - Correlation and Covariance]     |  Thu, Oct 31  |  Thu, Nov 7  | [Place GitHub link in the progress tracker]  |
 | [Homework 2 - Probability]                    |  Thu, Nov 7   |  Thu, Nov 14 | [Place GitHub link in the progress tracker]  |
-| Homework 3 - TBD                              |  Thu, Nov 14  |  Thu, Nov 21 | [Place GitHub link in the progress tracker]  |
+| Homework 3 - Linear Regression                |  Thu, Nov 21  |  Thu, Nov 28 | [Place GitHub link in the progress tracker]  |
 | Final Project                                 |  Tue, Nov 26  |  Thu, Dec 12 | [Place GitHub link in the progress tracker]  |
 
 [Homework 1 - Correlation and Covariance]: ./Assignments/HW1.ipynb
