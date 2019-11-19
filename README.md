@@ -35,7 +35,7 @@ By the end of the course, you will be able to ...
 |  7 |   Tue, Nov 12             | **[Conditional Probability:](./Notebooks/Conditional_Probability//Conditional_probability.ipynb)** How Events Determine Other Events |
 |  8 |   Thu, Nov 14             | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
 |  9 |   Tue, Nov 19             | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
-| 10 |   Thu, Nov 21             | **Finding the Max/Min of a Function:** Derivatives |  
+| 10 |   Thu, Nov 21             | **[Finding the Max/Min of a Function:](./Notebooks/Calculus/partial_derivative.ipynb)** Derivatives |  
 | 11 |   Tue, Nov 26             | **Intro to Data Science:** Linear Regression |
 | -  |   Thu, Nov 28             | **NO CLASS** - Thanksgiving  |
 | 12 |   Tue, Dec 3              | **How Numbers Deceive** |
