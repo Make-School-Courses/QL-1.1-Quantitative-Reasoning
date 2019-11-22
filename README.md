@@ -38,7 +38,7 @@ By the end of the course, you will be able to ...
 | 10 |   Thu, Nov 21             | **[Finding the Max/Min of a Function:](./Notebooks/Calculus/partial_derivative.ipynb)** Derivatives |  
 | 11 |   Tue, Nov 26             | **Intro to Data Science:** Linear Regression |
 | -  |   Thu, Nov 28             | **NO CLASS** - Thanksgiving  |
-| 12 |   Tue, Dec 3              | **How Numbers Deceive** |
+| 12 |   Tue, Dec 3              | **[How Numbers Deceive](./Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb)** |
 | 13 |   Thu, Dec 5              | **Intro to Vectors and  Matrix Multiplication** |
 | 14 |   Tue, Dec 10             | Lab/Project Work day  |
 | 15 |   Thu, Dec 12             | Final Exam + Final Project Due |
