@@ -39,7 +39,7 @@ By the end of the course, you will be able to ...
 | 11 |   Tue, Nov 26             | **Intro to Data Science:** Linear Regression |
 | -  |   Thu, Nov 28             | **NO CLASS** - Thanksgiving  |
 | 12 |   Tue, Dec 3              | **[How Numbers Deceive](./Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb)** |
-| 13 |   Thu, Dec 5              | **Intro to Vectors and  Matrix Multiplication** |
+| 13 |   Thu, Dec 5              | **[Intro to Vectors and  Matrix Multiplication](./Notebooks/linear_algebra.ipynb)** |
 | 14 |   Tue, Dec 10             | Lab/Project Work day  |
 | 15 |   Thu, Dec 12             | Final Exam + Final Project Due |
 
