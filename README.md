@@ -20,11 +20,8 @@ By the end of the course, you will be able to ...
 
 ## Schedule
 
-**Course Dates:** Tuesday, October 22 – Thursday, December 12, 2019 (8 weeks)
 
-**Class Times:** Tuesday and Thursday at 1:30–3:20pm (15 class sessions)
-
-| Class |          Date          |                 Topics                  |
+<!-- | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |   Tue, Oct 22             | **[Intro to QL](https://docs.google.com/presentation/d/10puex-O20RivRpA9g6hSRr9VMEm4Ebbx5LqhmK1jXvw/edit?usp=sharing)** |
 |  2 |   Thu, Oct 24             | **[Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
@@ -41,8 +38,29 @@ By the end of the course, you will be able to ...
 | 12 |   Tue, Dec 3              | **[How Numbers Deceive](./Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb)** |
 | 13 |   Thu, Dec 5              | **[Intro to Vectors and  Matrix Multiplication](./Notebooks/Linear_Algebra/linear_algebra.ipynb)** |
 | 14 |   Tue, Dec 10             | Lab/Project Work day  |
-| 15 |   Thu, Dec 12             | Final Exam + Final Project Due |
+| 15 |   Thu, Dec 12             | Final Exam + Final Project Due | -->
 
+
+**Course Dates:** Monday, January 20 – Wednesday, March 4, 2020 (7 weeks)
+
+**Class Times:** Monday and Wednesday at 3:30–5:20pm (13 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  - |  Mon, January 20               | **NO CLASS** - MLK Day |
+|  1 |  Wed, January 22               | **[Intro to QL](https://docs.google.com/presentation/d/10puex-O20RivRpA9g6hSRr9VMEm4Ebbx5LqhmK1jXvw/edit?usp=sharing)** |
+|  2 |  Mon, January 27               | **[Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
+|  3 |  Wed, January 29               | **[Relationships in Data, Pt 1:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Variance and Percentiles |
+|  4 |  Mon, February 3               | **[Relationships in Data, Pt 2:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Correlation and Covariance |
+|  5 |  Wed, February 5               | **[Intro to Probability](./Notebooks/Probability.ipynb)** |
+|  6 |  Mon, February 10              | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
+|  7 |  Wed, February 12              | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
+|  8 |  Mon, February 17              |  **[Finding the Max/Min of a Function:](./Notebooks/Calculus/partial_derivative.ipynb)** Derivatives |
+|  9 |  Wed, February 19              | **Intro to Data Science:** Linear Regression |
+| 10 |  Mon, February 24              | **[How Numbers Deceive](./Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb)**|  
+| 11 |  Wed, February 26              | **[Intro to Vectors and  Matrix Multiplication](./Notebooks/Linear_Algebra/linear_algebra.ipynb)**|
+| 12 |  Mon, March 2                  | Lab/Project Work day |
+| 13 |  Wed, March 4                  | Presentations |
 
 ## Assignment Schedule
 
