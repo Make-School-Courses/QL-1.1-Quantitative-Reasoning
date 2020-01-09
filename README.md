@@ -43,7 +43,7 @@ By the end of the course, you will be able to ...
 
 **Course Dates:** Monday, January 20 – Wednesday, March 4, 2020 (7 weeks)
 
-**Class Times:** Monday and Wednesday at 3:30–5:20pm (13 class sessions)
+**Class Times:** Monday and Wednesday at 2:30–5:15pm (13 class sessions)
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
@@ -56,7 +56,7 @@ By the end of the course, you will be able to ...
 |  6 |  Mon, February 10              | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
 |  7 |  Wed, February 12              | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
 |  8 |  Mon, February 17              |  **[Finding the Max/Min of a Function:](./Notebooks/Calculus/partial_derivative.ipynb)** Derivatives |
-|  9 |  Wed, February 19              | **Intro to Data Science:** Linear Regression |
+|  9 |  Wed, February 19              | **[Intro to Data Science:](./Final_Project/Final_Project.ipynb)** Linear Regression |
 | 10 |  Mon, February 24              | **[How Numbers Deceive](./Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb)**|  
 | 11 |  Wed, February 26              | **[Intro to Vectors and  Matrix Multiplication](./Notebooks/Linear_Algebra/linear_algebra.ipynb)**|
 | 12 |  Mon, March 2                  | Lab/Project Work day |
