@@ -75,12 +75,11 @@ By the end of the course, you will be able to ...
 |  8 |   Thu, June 25            | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
 |  9 |   Tue, June 30            | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
 | 10 |   Thu, July 2            | **[Finding the Max/Min of a Function:](./Notebooks/Calculus/partial_derivative.ipynb)** Derivatives |  
-| 11 |   Tue, July 7             | **Intro to Data Science:** Linear Regression |
-| -  |   Thu, July 9             | **NO CLASS** - Thanksgiving  |
-| 12 |   Tue, July 14             | **[How Numbers Deceive](./Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb)** |
-| 13 |   Thu, July 16              | **[Intro to Vectors and  Matrix Multiplication](./Notebooks/Linear_Algebra/linear_algebra.ipynb)** |
-| 14 |   Tue, July 21             | Lab/Project Work day  |
-| 15 |   Thu, July 23             | Final Exam + Final Project Due | 
+| 11 |   Tue, July 7             | **[Intro to Data Science:](./Final_Project/Final_Project.ipynb)** Linear Regression  |
+| -  |   Thu, July 9             | **[How Numbers Deceive](./Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb)**   |
+| 12 |   Tue, July 14             | **[Intro to Vectors and  Matrix Multiplication](./Notebooks/Linear_Algebra/linear_algebra.ipynb)**|
+| 13 |   Thu, July 16              | Lab/Project Work day   |
+| 14 |   Tue, July 21             | Final Exam + Final Project Due  |
 
 ## Assignment Schedule
 
