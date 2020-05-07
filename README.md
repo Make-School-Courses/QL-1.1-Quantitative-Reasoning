@@ -23,22 +23,22 @@ By the end of the course, you will be able to ...
 
 <!-- | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Tue, Oct 22             | **[Intro to QL](https://docs.google.com/presentation/d/10puex-O20RivRpA9g6hSRr9VMEm4Ebbx5LqhmK1jXvw/edit?usp=sharing)** |
-|  2 |   Thu, Oct 24             | **[Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
-|  3 |   Tue, Oct 29             | **[Relationships in Data, Pt 1:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Variance and Percentiles |
-|  4 |   Thu, Oct 31             | **[Relationships in Data, Pt 2:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Correlation and Covariance |
-|  5 |   Tue, Nov 5              | **[Data Visualizations:](./Notebooks/visualizations/visualizations_in_data.ipynb)** histograms, charts, plots |
-|  6 |   Thu, Nov 7              | **[Intro to Probability](./Notebooks/Probability.ipynb)**  |
-|  7 |   Tue, Nov 12             | **[Conditional Probability:](./Notebooks/Conditional_Probability//Conditional_probability.ipynb)** How Events Determine Other Events |
-|  8 |   Thu, Nov 14             | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
-|  9 |   Tue, Nov 19             | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
-| 10 |   Thu, Nov 21             | **[Finding the Max/Min of a Function:](./Notebooks/Calculus/partial_derivative.ipynb)** Derivatives |  
-| 11 |   Tue, Nov 26             | **Intro to Data Science:** Linear Regression |
-| -  |   Thu, Nov 28             | **NO CLASS** - Thanksgiving  |
-| 12 |   Tue, Dec 3              | **[How Numbers Deceive](./Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb)** |
-| 13 |   Thu, Dec 5              | **[Intro to Vectors and  Matrix Multiplication](./Notebooks/Linear_Algebra/linear_algebra.ipynb)** |
-| 14 |   Tue, Dec 10             | Lab/Project Work day  |
-| 15 |   Thu, Dec 12             | Final Exam + Final Project Due | -->
+|  1 |   Tue, June 2             | **[Intro to QL](https://docs.google.com/presentation/d/10puex-O20RivRpA9g6hSRr9VMEm4Ebbx5LqhmK1jXvw/edit?usp=sharing)** |
+|  2 |   Thu, June 4             | **[Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
+|  3 |   Tue, June 9             | **[Relationships in Data, Pt 1:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Variance and Percentiles |
+|  4 |   Thu, June 11             | **[Relationships in Data, Pt 2:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Correlation and Covariance |
+|  5 |   Tue, June 16              | **[Data Visualizations:](./Notebooks/visualizations/visualizations_in_data.ipynb)** histograms, charts, plots |
+|  6 |   Thu, June 18             | **[Intro to Probability](./Notebooks/Probability.ipynb)**  |
+|  7 |   Tue, June 23             | **[Conditional Probability:](./Notebooks/Conditional_Probability//Conditional_probability.ipynb)** How Events Determine Other Events |
+|  8 |   Thu, June 25            | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
+|  9 |   Tue, June 30            | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
+| 10 |   Thu, July 2            | **[Finding the Max/Min of a Function:](./Notebooks/Calculus/partial_derivative.ipynb)** Derivatives |  
+| 11 |   Tue, July 7             | **Intro to Data Science:** Linear Regression |
+| -  |   Thu, July 9             | **NO CLASS** - Thanksgiving  |
+| 12 |   Tue, July 14             | **[How Numbers Deceive](./Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb)** |
+| 13 |   Thu, July 16              | **[Intro to Vectors and  Matrix Multiplication](./Notebooks/Linear_Algebra/linear_algebra.ipynb)** |
+| 14 |   Tue, July 21             | Lab/Project Work day  |
+| 15 |   Thu, July 23             | Final Exam + Final Project Due | -->
 
 
 **Course Dates:** Monday, January 20 – Wednesday, March 4, 2020 (7 weeks)
