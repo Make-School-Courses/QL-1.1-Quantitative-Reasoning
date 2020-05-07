@@ -45,7 +45,7 @@ By the end of the course, you will be able to ...
 
 **Class Times:** Monday and Wednesday at 2:30–5:15pm (13 class sessions)
 
-| Class |          Date          |                 Topics                  |
+<!-- | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  - |  Mon, January 20               | **NO CLASS** - MLK Day |
 |  1 |  Wed, January 22               | **[Intro to QL](https://docs.google.com/presentation/d/10puex-O20RivRpA9g6hSRr9VMEm4Ebbx5LqhmK1jXvw/edit?usp=sharing)** |
@@ -60,7 +60,27 @@ By the end of the course, you will be able to ...
 | 10 |  Mon, February 24              | **[How Numbers Deceive](./Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb)**|  
 | 11 |  Wed, February 26              | **[Intro to Vectors and  Matrix Multiplication](./Notebooks/Linear_Algebra/linear_algebra.ipynb)**|
 | 12 |  Mon, March 2                  | Lab/Project Work day |
-| 13 |  Wed, March 4                  | Presentations |
+| 13 |  Wed, March 4                  | Presentations | -->
+
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  1 |   Tue, June 2             | **[Intro to QL](https://docs.google.com/presentation/d/10puex-O20RivRpA9g6hSRr9VMEm4Ebbx5LqhmK1jXvw/edit?usp=sharing)** |
+|  2 |   Thu, June 4             | **[Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
+|  3 |   Tue, June 9             | **[Relationships in Data, Pt 1:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Variance and Percentiles |
+|  4 |   Thu, June 11             | **[Relationships in Data, Pt 2:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Correlation and Covariance |
+|  5 |   Tue, June 16              | **[Data Visualizations:](./Notebooks/visualizations/visualizations_in_data.ipynb)** histograms, charts, plots |
+|  6 |   Thu, June 18             | **[Intro to Probability](./Notebooks/Probability.ipynb)**  |
+|  7 |   Tue, June 23             | **[Conditional Probability:](./Notebooks/Conditional_Probability//Conditional_probability.ipynb)** How Events Determine Other Events |
+|  8 |   Thu, June 25            | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
+|  9 |   Tue, June 30            | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
+| 10 |   Thu, July 2            | **[Finding the Max/Min of a Function:](./Notebooks/Calculus/partial_derivative.ipynb)** Derivatives |  
+| 11 |   Tue, July 7             | **Intro to Data Science:** Linear Regression |
+| -  |   Thu, July 9             | **NO CLASS** - Thanksgiving  |
+| 12 |   Tue, July 14             | **[How Numbers Deceive](./Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb)** |
+| 13 |   Thu, July 16              | **[Intro to Vectors and  Matrix Multiplication](./Notebooks/Linear_Algebra/linear_algebra.ipynb)** |
+| 14 |   Tue, July 21             | Lab/Project Work day  |
+| 15 |   Thu, July 23             | Final Exam + Final Project Due | 
 
 ## Assignment Schedule
 
