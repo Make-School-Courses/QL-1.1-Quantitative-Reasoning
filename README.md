@@ -18,6 +18,16 @@ By the end of the course, you will be able to ...
 1. Apply quantitative reasoning skills using data analysis, probability, and statistics through examples related to current world debates, inquiries, and problems.
 1. Gain and act with confidence to work through problems using quantitative reasoning.
 
+## Key Topics and Concepts
+
+1. Explain, use, and implement the following statistical tools on using Python
+    1. Mean, Mode, Median
+    2. Histogram, PDF, CDF
+    3. Correlation, Covariance
+    4. Probability and Conditional Probability
+1. Define what vectors and matrixes are, and complete matrix-vector multiplicatoin 
+1. Explain what derivatives and partial derivates are and use them to perform linear regressions on a dataset.
+
 ## Schedule
 
 
