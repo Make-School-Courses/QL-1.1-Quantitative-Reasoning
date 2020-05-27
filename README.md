@@ -19,6 +19,7 @@ By the end of the course, you will be able to ...
 1. Gain and act with confidence to work through problems using quantitative reasoning.
 
 ## Critical Skills
+
 Explain, use, and implement the following statistical tools using Python
 
 1. Use Mean, Mode, Median, Range, and Standard Deviation to describe a data series
@@ -27,6 +28,7 @@ Explain, use, and implement the following statistical tools using Python
 4. Calculate the Probability and Conditional Probability of an event or events
 5. Define what vectors and matrixes are, and complete matrix-vector multiplication
 6. Explain what derivatives and partial derivates are and use them to perform linear regression on a dataset.
+
 
 ## Schedule
 
