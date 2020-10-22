@@ -83,21 +83,21 @@ Explain, use, and implement the following statistical tools using Python
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Tue, June 2             | **[Intro to QL](https://docs.google.com/presentation/d/10puex-O20RivRpA9g6hSRr9VMEm4Ebbx5LqhmK1jXvw/edit?usp=sharing)**, **[Intro to QL(Kami)](https://docs.google.com/presentation/d/1YHxlWCWymcw2Uhiz1QaLNgiZ9odVA8WzDS644JcFYNI/edit?usp=sharing)**|
-|  2 |   Thu, June 4             | **[Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
-|  3 |   Tue, June 9             | **[Relationships in Data, Pt 1:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Variance and Percentiles |
-|  4 |   Thu, June 11             | **[Relationships in Data, Pt 2:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Correlation and Covariance |
-|  5 |   Tue, June 16              | **[Data Visualizations:](./Notebooks/visualizations/visualizations_in_data.ipynb)** histograms, charts, plots |
-|  6 |   Thu, June 18             | **[Intro to Probability](./Notebooks/Probability.ipynb)**  |
-|  7 |   Tue, June 23             | **[Conditional Probability:](./Notebooks/Conditional_Probability//Conditional_probability.ipynb)** How Events Determine Other Events |
-|  8 |   Thu, June 25            | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
-|  9 |   Tue, June 30            | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
-| 10 |   Thu, July 2            | **[Finding the Max/Min of a Function:](./Notebooks/Calculus/partial_derivative.ipynb)** Derivatives |  
-| 11 |   Tue, July 7             | **[Intro to Data Science:](./Final_Project/Final_Project.ipynb)** Linear Regression  |
-| -  |   Thu, July 9             | **[How Numbers Deceive](./Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb)**   |
-| 12 |   Tue, July 14             | **[Intro to Vectors and  Matrix Multiplication](./Notebooks/Linear_Algebra/linear_algebra.ipynb)**|
-| 13 |   Thu, July 16              | Lab/Project Work day   |
-| 14 |   Tue, July 21             | Final Exam + Final Project Due  |
+|  1 |   Thu, October 22             | **[Intro to QL](https://docs.google.com/presentation/d/10puex-O20RivRpA9g6hSRr9VMEm4Ebbx5LqhmK1jXvw/edit?usp=sharing)**, **[Intro to QL(Kami)](https://docs.google.com/presentation/d/1YHxlWCWymcw2Uhiz1QaLNgiZ9odVA8WzDS644JcFYNI/edit?usp=sharing)**|
+|  2 |   Tue, October 27             | **[Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
+|  3 |   Thu, October 29            | **[Relationships in Data, Pt 1:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Variance and Percentiles |
+|  4 |   Thu, November 5             | **[Relationships in Data, Pt 2:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Correlation and Covariance |
+|  5 |   Tue, November 10              | **[Data Visualizations:](./Notebooks/visualizations/visualizations_in_data.ipynb)** histograms, charts, plots |
+|  6 |   Thu, November 12             | **[Intro to Probability](./Notebooks/Probability.ipynb)**  |
+|  7 |   Tue, November 17             | **[Conditional Probability:](./Notebooks/Conditional_Probability//Conditional_probability.ipynb)** How Events Determine Other Events |
+|  8 |   Thu, November 19            | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
+|  9 |   Tue, November 24            | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
+| 10 |   Tue, December 1            | **[Finding the Max/Min of a Function:](./Notebooks/Calculus/partial_derivative.ipynb)** Derivatives |  
+| 11 |   Thu, December 3             | **[Intro to Data Science:](./Final_Project/Final_Project.ipynb)** Linear Regression  |
+| -  |   Tue, December 8             | **[How Numbers Deceive](./Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb)**   |
+| 12 |   Thu, December 10             | **[Intro to Vectors and  Matrix Multiplication](./Notebooks/Linear_Algebra/linear_algebra.ipynb)**|
+| 13 |   Thu, December TBD             | Lab/Project Work day   |
+| 14 |   Tue, December TBD             | Final Exam + Final Project Due  |
 
 ## Assignment Schedule
 
