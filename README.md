@@ -84,7 +84,7 @@ Explain, use, and implement the following statistical tools using Python
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |   Thu, October 22             | **[Intro to QL](https://docs.google.com/presentation/d/10puex-O20RivRpA9g6hSRr9VMEm4Ebbx5LqhmK1jXvw/edit?usp=sharing)**, **[Intro to QL(Kami)](https://docs.google.com/presentation/d/1YHxlWCWymcw2Uhiz1QaLNgiZ9odVA8WzDS644JcFYNI/edit?usp=sharing)**|
-|  2 |   Tue, October 27             | **[Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
+|  2 |   Tue, October 27             | **[Data Analysis](./Notebooks/Descriptive_Statistics.ipynb)**,  **[Data Analysis-Kami:](https://docs.google.com/presentation/d/1AL15PxycbG3z0co9D0Un0vYY9gO4U8gFuNCHJ1g3Erw/edit?usp=sharing)** Mean, Median, Mode, Standard deviation|
 |  3 |   Thu, October 29            | **[Relationships in Data, Pt 1:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Variance and Percentiles |
 |  4 |   Thu, November 5             | **[Relationships in Data, Pt 2:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Correlation and Covariance |
 |  5 |   Tue, November 10              | **[Data Visualizations:](./Notebooks/visualizations/visualizations_in_data.ipynb)** histograms, charts, plots |
