@@ -39,47 +39,9 @@ Explain, use, and implement the following statistical tools using Python
 ## Schedule
 
 
-<!-- | Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  1 |   Tue, June 2             | **[Intro to QL](https://docs.google.com/presentation/d/10puex-O20RivRpA9g6hSRr9VMEm4Ebbx5LqhmK1jXvw/edit?usp=sharing)** - |
-|  2 |   Thu, June 4             | **[Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
-|  3 |   Tue, June 9             | **[Relationships in Data, Pt 1:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Variance and Percentiles |
-|  4 |   Thu, June 11             | **[Relationships in Data, Pt 2:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Correlation and Covariance |
-|  5 |   Tue, June 16              | **[Data Visualizations:](./Notebooks/visualizations/visualizations_in_data.ipynb)** histograms, charts, plots |
-|  6 |   Thu, June 18             | **[Intro to Probability](./Notebooks/Probability.ipynb)**  |
-|  7 |   Tue, June 23             | **[Conditional Probability:](./Notebooks/Conditional_Probability//Conditional_probability.ipynb)** How Events Determine Other Events |
-|  8 |   Thu, June 25            | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
-|  9 |   Tue, June 30            | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
-| 10 |   Thu, July 2            | **[Finding the Max/Min of a Function:](./Notebooks/Calculus/partial_derivative.ipynb)** Derivatives |  
-| 11 |   Tue, July 7             | **Intro to Data Science:** Linear Regression |
-| -  |   Thu, July 9             | **NO CLASS** - Thanksgiving  |
-| 12 |   Tue, July 14             | **[How Numbers Deceive](./Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb)** |
-| 13 |   Thu, July 16              | **[Intro to Vectors and  Matrix Multiplication](./Notebooks/Linear_Algebra/linear_algebra.ipynb)** |
-| 14 |   Tue, July 21             | Lab/Project Work day  |
-| 15 |   Thu, July 23             | Final Exam + Final Project Due | -->
-
-
 **Course Dates:** Monday, January 20 – Wednesday, March 4, 2020 (7 weeks)
 
 **Class Times:** Monday and Wednesday at 2:30–5:15pm (13 class sessions)
-
-<!-- | Class |          Date          |                 Topics                  |
-|:-----:|:----------------------:|:---------------------------------------:|
-|  - |  Mon, January 20               | **NO CLASS** - MLK Day |
-|  1 |  Wed, January 22               | **[Intro to QL](https://docs.google.com/presentation/d/10puex-O20RivRpA9g6hSRr9VMEm4Ebbx5LqhmK1jXvw/edit?usp=sharing)** |
-|  2 |  Mon, January 27               | **[Data Analysis:](./Notebooks/Descriptive_Statistics.ipynb)** Mean, Median, Mode, Standard deviation |
-|  3 |  Wed, January 29               | **[Relationships in Data, Pt 1:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Variance and Percentiles |
-|  4 |  Mon, February 3               | **[Relationships in Data, Pt 2:](./Notebooks/relationships_data/Relationships_in_Data.ipynb)** Correlation and Covariance |
-|  5 |  Wed, February 5               | **[Intro to Probability](./Notebooks/Probability.ipynb)** |
-|  6 |  Mon, February 10              | **[Handling Randomness in Probability, Pt 1:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** PDFs |
-|  7 |  Wed, February 12              | **[Handling Randomness in Probability, Pt 2:](./Notebooks/Handling_Randomness_in_Probability/pdf_cdf_Normal.ipynb)** CDFs |
-|  8 |  Mon, February 17              |  **[Finding the Max/Min of a Function:](./Notebooks/Calculus/partial_derivative.ipynb)** Derivatives |
-|  9 |  Wed, February 19              | **[Intro to Data Science:](./Final_Project/Final_Project.ipynb)** Linear Regression |
-| 10 |  Mon, February 24              | **[How Numbers Deceive](./Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb)**|  
-| 11 |  Wed, February 26              | **[Intro to Vectors and  Matrix Multiplication](./Notebooks/Linear_Algebra/linear_algebra.ipynb)**|
-| 12 |  Mon, March 2                  | Lab/Project Work day |
-| 13 |  Wed, March 4                  | Presentations | -->
-
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
@@ -101,26 +63,14 @@ Explain, use, and implement the following statistical tools using Python
 
 ## Assignment Schedule
 
-|                        Assignment             | Date Assigned |   Due Date   |            Submission Form                   |
-|:---------------------------------------------:|:-------------:|:------------:|:--------------------------------------------:|
-| [Homework 1 - Correlation and Covariance]     |  Mon, February 3  |  Mon, February 10  | [Place GitHub link in the progress tracker]  |
-| [Homework 2 - Probability]                    |  Wed, February 12   |   Wed, February 19 | [Place GitHub link in the progress tracker]  |
-| [Homework 3 - Linear Regression]              |  Wed, February 19  |  Mon, March 2 | [Place GitHub link in the progress tracker]  |
-| Final Project                                 |  Wed, February 19  |  Wed, March 4 | [Place GitHub link in the progress tracker]  |
-
-[Homework 1 - Correlation and Covariance]: ./Assignments/HW1.ipynb
-[Homework 2 - Probability]: ./Assignments/HW2.ipynb
-[Homework 3 - Linear Regression]: ./Assignments/HW3.ipynb
-
-[Place GitHub link in the progress tracker]: https://docs.google.com/spreadsheets/d/1T9CU4q9Ijg85fA5XSWPlfqbpSXuGshkL5lF6vAwWwJY/edit?usp=sharing
+All assignments are scheduled in gradescope.
 
 ## Evaluation
 To pass this course you must meet the following requirements:
 
-- Complete all required assignments, including Homework, the Data Analysis Project, and the  Math & Social Issues Project
-- Pass all projects according to the associated project rubric
-- Pass the final summative assessment according to the rubric as specified in this class
-    - This will be further explained in the [study guide](ADD_STUDY_GUIDE_LNK)
+- Complete all required assignments in the gradescope.
+
+- Pass the final summative assessment detailed in the gradescope.
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
