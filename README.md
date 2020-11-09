@@ -38,10 +38,17 @@ Explain, use, and implement the following statistical tools using Python
 
 ## Schedule
 
+### [Course Tracker (schedule, recorded sessions, resources)](https://docs.google.com/spreadsheets/d/1A3j1-q4hs0M-l6dBofynJZf8Ea1TGttGpIxHyTw3NEM/edit?usp=sharing)
+Plesae refer the tracker link (above) for the course schedule, recorded sessions and resources.
 
 **Course Dates:** Monday, January 20 – Wednesday, March 4, 2020 (7 weeks)
 
 **Class Times:** Monday and Wednesday at 2:30–5:15pm (13 class sessions)
+
+
+
+<!---
+
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
@@ -61,6 +68,8 @@ Explain, use, and implement the following statistical tools using Python
 | 13 |   Thu, December TBD             | Lab/Project Work day   |
 | 14 |   Tue, December TBD             | Final Exam + Final Project Due  |
 
+
+-->
 ## Assignment Schedule
 
 All assignments are scheduled in gradescope.
