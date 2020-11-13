@@ -78,9 +78,9 @@ All assignments are scheduled in gradescope.
 ## Evaluation
 To pass this course you must meet the following requirements:
 
-- Complete all required assignments in the gradescope.
+- Complete all required assignments.
 
-- Pass the final summative assessment detailed in the gradescope.
+- Pass the final summative assessment.
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
