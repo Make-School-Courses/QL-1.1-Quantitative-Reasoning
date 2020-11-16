@@ -103,9 +103,9 @@ For Assignments details refer to [here](ql1-1.md).
 To pass this course you must meet the following requirements:
 
 - Obtain at least 70% cumulative score on the required assignments.
-
 - Pass the final summative assessment (minimum grade 70%)
 - Actively participate in class and abide by the attendance policy
+- If an assignment is not passing you have 1 week to make any necessary fixes and resubmit for full points
 
 ##  Information Resources
 
