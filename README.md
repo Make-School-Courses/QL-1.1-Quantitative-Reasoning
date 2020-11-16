@@ -84,31 +84,27 @@ Plesae refer the tracker link (above) for the course schedule, recorded sessions
 
 ## Assignment Schedule
 
-| Assignment | Date Assigned | Due Date | Submission Form |
-|:---------------------------------------------:|:-------------:|:------------:|:--------------------------------------------:|
-| [Homework 1 - Correlation and Covariance] | Thu, Oct 22 | Tue, Oct 29 | [Place GitHub link in the progress tracker] |
-| [Homework 2 - Probability] | Tue, Oct 28  | Thu, Nov 10 | [Place GitHub link in the progress tracker] |
-| [Homework 3 - Linear Regression] | Thu, Nov 10 | Tue, Nov 20 | [Place GitHub link in the progress tracker] |
-| Final Project | Thu, Nov 10 | Thu, Dec 8 | [Place GitHub link in the progress tracker] |
-
-[Homework 1 - Correlation and Covariance]: ./Assignments/HW1.ipynb
-[Homework 2 - Probability]: ./Assignments/HW2.ipynb
-[Homework 3 - Linear Regression]: ./Assignments/HW3.ipynb
-[Place GitHub link in the progress tracker]: https://docs.google.com/spreadsheets/d/1T9CU4q9Ijg85fA5XSWPlfqbpSXuGshkL5lF6vAwWwJY/edit?usp=sharing
-
 We will be using Gradescope, which allows us to provide fast and accurate feedback on your work. All assigned work will be submitted through Gradescope, and assignment and exam grades will be returned through Gradescope.
 
 As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
 Your Gradescope login is your Make School email, and your password can be changed at https://gradescope.com/reset_password. The same link can be used if you need to set your password for the first time.
 
+| Assignments               | Due Date     | Submission Form |   |
+|---------------------------|--------------|-----------------|---|
+| Mean, Median and Mode     | Nov 20, 2020 | Gradescope      |   |
+| Median and Mode Algorithm | Nov 25, 2020 | Gradescope      |   |
+| Coefficient of Variation  | Nov 27, 2020 | Gradescope      |   |
+| z\-score                  | Nov 23, 2020 | Gradescope      |   |
+
+For Assignments details refer to [here](ql1-1.md).
 
 ## Evaluation
 To pass this course you must meet the following requirements:
 
 - Obtain at least 70% cumulative score on the required assignments.
 
-- Pass the final summative assessment (minimum grade 75%)
+- Pass the final summative assessment (minimum grade 70%)
 - Actively participate in class and abide by the attendance policy
 
 ##  Information Resources
