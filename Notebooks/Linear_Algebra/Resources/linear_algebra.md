@@ -40,7 +40,9 @@ Here is a matrix multiplication [calculator](http://matrixmultiplication.xyz/) y
 
 It's really important and also exciting to understand how what you're learning relates to your career goals.
 
-<!-- [The Matrix Calculus You Need for Deep Learning](http://the%20matrix%20calculus%20you%20need%20for%20deep%20learning/) -->
+Continue your deep dive with this next paper, which attempts to cover ALL of the matrix calculus you need for deep learning. 
+
+[The Matrix Calculus You Need for Deep Learning](https://explained.ai/matrix-calculus/)
 
 This is the first of the three part Mathematics for Machine Learning Specialization (also linked below) from Coursera. Plan to dedicate a bit more time to these resources, and gain a wealth of knowledge and mastery of much of the math you need for machine learning.
 
