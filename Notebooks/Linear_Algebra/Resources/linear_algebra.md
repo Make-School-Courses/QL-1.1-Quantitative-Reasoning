@@ -15,6 +15,15 @@ Linear Algebra is the discipline that handles linear equations. You may have bee
 
 And several more valuable theoretical videos that extend into cross products, inverse matrices, and more for a valuable deep dive.
 
+This is a really excellent article that covers matrices, vectors, tensors, multiplication, inverse and transpose, and even links to further sources. It also provides a brief bit of text expressing why these are important concepts to master if you're interested in working with machine learning.
+
+[Basic Introduction to Matrix Operations](https://towardsdatascience.com/linear-algebra-for-deep-learning-f21d7e7d7f23)
+
+Once you've got the hang of the basics of matrices and vectors, dive wayyy deeper into the fundamentals, and tie it all into additional concepts valuable for anyone interested in a career focused on machine learning.
+
+[More In-Depth Look at Matrix Fundamentals](https://medium.com/towards-artificial-intelligence/basic-linear-algebra-for-deep-learning-and-machine-learning-ml-python-tutorial-444e23db3e9e)
+
+
 ### Matrix and Vector Mulitplication
 
 [Here](https://www.mathsisfun.com/algebra/matrix-multiplying.html) is a simple resource for remembering how to do matrix and vector multiplication!
@@ -24,4 +33,19 @@ Here is a matrix multiplication [calculator](http://matrixmultiplication.xyz/) y
 ### Matrix and Vector Operations in Numpy
 
 1. [Working with Matrix in Python](https://www.youtube.com/watch?v=Blzp9iuhZqo)
+
 2. [How to Multiply Two Matrices in Python using numpy](https://www.youtube.com/watch?v=rLuvRiZ-ELk)
+
+### How do Matrices Relate to Machine Learning?
+
+It's really important and also exciting to understand how what you're learning relates to your career goals.
+
+<!-- [The Matrix Calculus You Need for Deep Learning](http://the%20matrix%20calculus%20you%20need%20for%20deep%20learning/) -->
+
+This is the first of the three part Mathematics for Machine Learning Specialization (also linked below) from Coursera. Plan to dedicate a bit more time to these resources, and gain a wealth of knowledge and mastery of much of the math you need for machine learning.
+
+All three courses in this specialization can be taken for free.
+
+[Mathematics for Machine Learning - Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
+
+[Mathematics for Machine Learning Specialization - Coursera](https://www.coursera.org/specializations/mathematics-machine-learning)
