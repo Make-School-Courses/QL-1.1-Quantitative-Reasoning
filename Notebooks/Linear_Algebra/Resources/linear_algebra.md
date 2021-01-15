@@ -30,6 +30,10 @@ Once you've got the hang of the basics of matrices and vectors, dive wayyy deepe
 
 Here is a matrix multiplication [calculator](http://matrixmultiplication.xyz/) you can use to check your work!
 
+[This](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:vectors/x9e81a4f98389efdf:scalar-mul/e/scaling_vectors) is a helpful practice tool for scalar multiplication!
+
+[This](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:multiplying-matrices-by-matrices/e/multiplying_a_matrix_by_a_matrix) is a helpful tool for practicing matrix multiplication!
+
 ### Matrix and Vector Operations in Numpy
 
 1. [Working with Matrix in Python](https://www.youtube.com/watch?v=Blzp9iuhZqo)
@@ -40,7 +44,7 @@ Here is a matrix multiplication [calculator](http://matrixmultiplication.xyz/) y
 
 It's really important and also exciting to understand how what you're learning relates to your career goals.
 
-Continue your deep dive with this next paper, which attempts to cover ALL of the matrix calculus you need for deep learning. 
+Continue your deep dive with this next paper, which attempts to cover ALL of the matrix calculus you need for deep learning.
 
 [The Matrix Calculus You Need for Deep Learning](https://explained.ai/matrix-calculus/)
 
