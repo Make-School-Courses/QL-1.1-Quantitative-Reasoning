@@ -13,7 +13,9 @@
 
 [Taking Derivatives in Python](https://towardsdatascience.com/taking-derivatives-in-python-d6229ba72c64)
 
+[Derivatives Problems & Solutions](https://www.matheno.com/calculus-1/calculating-derivatives-problems-solutions/)
 
+[Partial Derivatives Problems & Solutions](https://www2.kenyon.edu/Depts/Math/Paquin/Partials.pdf)
 
 ## Gradient Descent
 
