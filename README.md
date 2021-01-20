@@ -109,6 +109,11 @@ To pass this course you must meet the following requirements:
 
 ##  Information Resources
 
+1. "Elementary Statistics: A Step By Step Approach" by Allan Bluman.
+1. "The Manga Guide to Statistics" by Shin Takahashi, Co Ltd Trend.
+1. "The Manga Guide to Regression Analysis" by Shin Takahashi, Iroha Inoue, Co Ltd Trend.
+1. [Khan Academy](https://www.khanacademy.org/)
+
 Any additional resources you may need (online books, etc.) can be found here. You can also find additional resources through the library linked below:
 
 - [make.sc/library](http://make.sc/library)
