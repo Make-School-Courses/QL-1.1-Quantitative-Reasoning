@@ -10,7 +10,7 @@ None
 
 ## Course Specifics
 
-**Course Delivery**: online | 7 weeks | 14 sessions
+**Course Delivery**: online | 7 weeks | 13 sessions
 
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
@@ -38,27 +38,27 @@ Explain, use, and implement the following statistical tools using Python
 
 ## Schedule
 
-### [Course Tracker (schedule, recorded sessions, resources)](https://docs.google.com/spreadsheets/d/1A3j1-q4hs0M-l6dBofynJZf8Ea1TGttGpIxHyTw3NEM/edit?usp=sharing)
-Plesae refer the tracker link (above) for the course schedule, recorded sessions and resources.
 
-**Course Dates:** Thu, October 22 – Thu, December 10, 2020 (7 weeks)
+**Course Dates:** Wed, Jan 22 – Wed, March 3, 2020 (7 weeks)
 
-**Class Times:** Thu and Thu at 2:30–5:15pm (13 class sessions)
+**Class Times:** Monday and Wed at 2:45–5:30pm.
 
 | Class |          Date          |                 Topics                  |            Resources           |
 |:-----:|:----------------------:|:---------------------------------------:|:-------------------------------|
-| 1     | Thu, October 22  | [Intro to QL]      | |
-| 2     | Tue, October 27  | [Data Analysis: Mean, Median, Mode, Variance, Standard Deviation] | [khan academy: mean, median, mode] |
-| 3     | Thu, October 29  | [Percentile & Correlation (1)] | [khan academy: percentile] |
-| 4     | Thu, November 5  | [Population vs. SampleData] <br /> Visualizations: <br /> 1. [Intro to Matplotlib] <br /> 2. [plots, charts, histogram] | khan academy: population vs sample |
-| 5     | Tue, November 10 | [Correlation (2) and Regression] | McGraw Hill Bluman book: Elementary Statistics: A Step By Step Approach (most of chapter 10 but not all of it)                                                             |
-| 6     | Thu, November 12 | [Intro to Probability - slides] <br /> [Intro to Probability - jupyter notebook] | [daniel poston probability tutorial (datacamp)] |
-| 7     | Tue, November 17 | [Conditional Probability: How Events Determine Other Events] |  |
-| 8     | Thu, November 19 | [Handling Randomness in Probability, Pt 1: PDFs] |    |
-| 9     | Tue, November 24 | [Handling Randomness in Probability, Pt 2: CDFs] |    |
-| 10    | Tue, December 1  | [Finding the Max/Min of a Function: Derivatives] |    |
-| 11    | Thu, December 3  | [Intro to Vectors and Matrix Multiplication]     |    |
-| 12    | Thu, December 10 | [How Numbers Deceive] |     |
+| 1     | Wed, Jan 20  | [Intro to QL]      | |
+| 2     | Mon, Jan 25  | [Data Analysis: Mean, Median, Mode, Variance, Standard Deviation] | [khan academy: mean, median, mode] |
+| 3     | Wed, Jan 27  | [Percentile & Correlation (1)] | [khan academy: percentile] |
+| 4     | Mon, Feb 1  | [Population vs. SampleData] <br /> Visualizations: <br /> 1. [Intro to Matplotlib] <br /> 2. [plots, charts, histogram] | khan academy: population vs sample |
+| 5     | Wed, Feb 3 | [Correlation (2) and Regression] | McGraw Hill Bluman book: Elementary Statistics: A Step By Step Approach (most of chapter 10 but not all of it)                                                             |
+| 6     | Mon, Feb 8 | [Intro to Probability - slides] <br /> [Intro to Probability - jupyter notebook] | [daniel poston probability tutorial (datacamp)] |
+| 7     | Wed, Feb 10 | [Conditional Probability: How Events Determine Other Events] |  |
+| 8     | Mon, Feb 15 | [Handling Randomness in Probability, Pt 1: PDFs] |    |
+| 9     | Wed, Feb 17 | [Handling Randomness in Probability, Pt 2: CDFs] |    |
+| 10    | Mon, Feb 22 | [Finding the Max/Min of a Function: Derivatives] |    |
+| 11    | Wed, Feb 24  | [Intro to Vectors and Matrix Multiplication]     |    |
+| 12    | Mon, March 1 | [How Numbers Deceive] |     |
+| 13    | Wed, March 3 | [How Numbers Deceive] |     |
+
 
 <!--Lessons-->
 [Intro to QL]: https://docs.google.com/presentation/d/1YHxlWCWymcw2Uhiz1QaLNgiZ9odVA8WzDS644JcFYNI/edit?usp=sharing                                                                                                                                                                                    
@@ -102,10 +102,10 @@ For Assignments details refer to [here](ql1-1.md).
 ## Evaluation
 To pass this course you must meet the following requirements:
 
-- Obtain at least 70% cumulative score on the required assignments.
-- Pass the final summative assessment (minimum grade 70%)
-- Actively participate in class and abide by the attendance policy
-- If an assignment is not passing you have 1 week to make any necessary fixes and resubmit for full points
+- Obtain at least 70% cumulative score on the assignments.
+- Pass the final summative assessment (minimum grade 70%).
+- Actively participate in class and abide by the attendance policy.
+- If an assignment is not passing, you have 1 week to make any necessary fixes and resubmit for full points.
 
 ##  Information Resources
 
