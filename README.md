@@ -51,13 +51,13 @@ Explain, use, and implement the following statistical tools using Python
 | 4     | Mon, Feb 1  | [Population vs. SampleData] <br /> Visualizations: <br /> 1. [Intro to Matplotlib] <br /> 2. [plots, charts, histogram] | khan academy: population vs sample |
 | 5     | Wed, Feb 3 | [Correlation (2) and Regression] | McGraw Hill Bluman book: Elementary Statistics: A Step By Step Approach (most of chapter 10 but not all of it)                                                             |
 | 6     | Mon, Feb 8 | [Intro to Probability - slides] <br /> [Intro to Probability - jupyter notebook] | [daniel poston probability tutorial (datacamp)] |
-| 7     | Wed, Feb 10 | [Conditional Probability: How Events Determine Other Events] |  |
-| 8     | Mon, Feb 15 | [Handling Randomness in Probability, Pt 1: PDFs] |    |
+| 7     | Wed, Feb 10 | [Conditional Probability: How Events Determine Other Events](https://docs.google.com/presentation/d/1JQguR_4LDu8f88vWWet4fVK-zDaYLbnDQtMwHmTB6vo/edit?usp=sharing) |  |
+| 8     | Mon, Feb 15 | [Intro to Vectors and Matrix Operations](https://docs.google.com/presentation/d/1Cxx5yfX-bcxMGxj_HB6NBGzbyYpEF5ijT97atVq0IvM/edit?usp=sharing) |    |
 | 9     | Wed, Feb 17 | [Handling Randomness in Probability, Pt 2: CDFs] |    |
-| 10    | Mon, Feb 22 | [Finding the Max/Min of a Function: Derivatives] |    |
-| 11    | Wed, Feb 24  | [Intro to Vectors and Matrix Multiplication]     |    |
-| 12    | Mon, March 1 | [How Numbers Deceive] |     |
-| 13    | Wed, March 3 | [How Numbers Deceive] |     |
+| 10    | Mon, Feb 22 | [Finding the Max/Min of a Function: Derivatives](https://github.com/Make-School-Courses/QL-1.1-Quantitative-Reasoning/blob/master/Notebooks/Calculus/partial_derivative.ipynb) |    |
+| 11    | Wed, Feb 24  | [PDF and CDF](https://docs.google.com/presentation/d/16wIu5pZnsGWHak4ci6oh-6vz-9JSePctVa9iu5qkYQo/edit?usp=sharing)   |    |
+| 12    | Mon, March 1 | Lab |     |
+| 13    | Wed, March 3 | Final Exam |     |
 
 
 <!--Lessons-->
