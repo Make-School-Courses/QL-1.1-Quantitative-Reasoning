@@ -92,10 +92,10 @@ Your Gradescope login is your Make School email, and your password can be change
 
 | Assignments               | Due Date     | Submission Form |   |
 |---------------------------|--------------|-----------------|---|
-| Mean, Median and Mode     | Nov 20, 2020 | Gradescope      |   |
-| Median and Mode Algorithm | Nov 25, 2020 | Gradescope      |   |
-| Coefficient of Variation  | Nov 27, 2020 | Gradescope      |   |
-| z\-score                  | Nov 23, 2020 | Gradescope      |   |
+| Mean, Median and Mode     | Refer to Gradescope | Gradescope      |   |
+| Median and Mode Algorithm | Refer to Gradescope | Gradescope      |   |
+| Coefficient of Variation  | Refer to Gradescope | Gradescope      |   |
+| z\-score                  | Refer to Gradescope | Gradescope      |   |
 
 For Assignments details refer to [here](ql1-1.md).
 
