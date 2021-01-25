@@ -39,7 +39,7 @@ Explain, use, and implement the following statistical tools using Python
 ## Schedule
 
 
-**Course Dates:** Wed, Jan 22 – Wed, March 3, 2020 (7 weeks)
+**Course Dates:** Wed, Jan 22 – Wed, March 3, 2021 (7 weeks)
 
 **Class Times:** Monday and Wed at 2:45–5:30pm.
 
