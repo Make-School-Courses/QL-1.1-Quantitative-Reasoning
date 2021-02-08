@@ -5,7 +5,7 @@
 Let's take some time to check in with ourselves and see how we feel about the main themes of today's lesson. Below are a few questions to check your understanding. Try to answer them on your own first, and then go back to the ones you might not feel so comfortable with. Find some resources, or ask your instructor or a friend and see if you can find the solution together!
 
 <!-- Aligns with learning outcomes: 1 -->
-1. Compute the derivative of the following function by hand:
+1. Estimate the derivative of the following function by hand:
 
 ![Problem 1](1problem.png)
 
@@ -14,9 +14,7 @@ Let's take some time to check in with ourselves and see how we feel about the ma
 
     ![Problem 2](2problem.png)
 
-   b) Now, compute the partial derivative over t!
-
-    ![Problem 2](2problem.png)
+   b) Now, compute the partial derivative over t for the function above! (df/dy)
 
 <!-- Aligns with general concept of lesson -->
 3. What is a *derivative*, and why are we learning about them? (Try to explain what, geometrically, this concept is finding or representing).
