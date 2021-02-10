@@ -40,6 +40,7 @@ Explain, use, and implement the following statistical tools using Python
 
 
 **Course Dates:** Wed, Jan 22 – Wed, March 3, 2021 (7 weeks)
+**Office Hours:** Mon, At CoWork on Calendar (1:30 pm to 2:30 pm).
 
 **Class Times:** Monday and Wed at 2:45–5:30pm.
 
