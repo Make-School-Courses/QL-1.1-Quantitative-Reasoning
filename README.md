@@ -54,7 +54,7 @@ Explain, use, and implement the following statistical tools using Python
 | 6     | Mon, Feb 8 | [Intro to Probability - slides] <br /> [Intro to Probability - jupyter notebook] | [daniel poston probability tutorial (datacamp)] |
 | 7     | Wed, Feb 10 | [Conditional Probability: How Events Determine Other Events](https://docs.google.com/presentation/d/1JQguR_4LDu8f88vWWet4fVK-zDaYLbnDQtMwHmTB6vo/edit?usp=sharing) |  |
 | 8     | Mon, Feb 15 | [Intro to Vectors and Matrix Operations](https://docs.google.com/presentation/d/1Cxx5yfX-bcxMGxj_HB6NBGzbyYpEF5ijT97atVq0IvM/edit?usp=sharing) |    |
-| 9     | Wed, Feb 17 |  |  Lab  |
+| 9     | Wed, Feb 17 | Lab |    |
 | 10    | Mon, Feb 22 | [Finding the Max/Min of a Function: Derivatives](https://github.com/Make-School-Courses/QL-1.1-Quantitative-Reasoning/blob/master/Notebooks/Calculus/partial_derivative.ipynb) |    |
 | 11    | Wed, Feb 24  | [PDF and CDF](https://docs.google.com/presentation/d/16wIu5pZnsGWHak4ci6oh-6vz-9JSePctVa9iu5qkYQo/edit?usp=sharing)   |    |
 | 12    | Mon, March 1 | [Handling Randomness in Probability, Pt 2: CDFs] |     |
