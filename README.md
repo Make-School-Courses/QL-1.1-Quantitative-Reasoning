@@ -56,8 +56,8 @@ Explain, use, and implement the following statistical tools using Python
 | 8     | Mon, Feb 15 | [Intro to Vectors and Matrix Operations](https://docs.google.com/presentation/d/1Cxx5yfX-bcxMGxj_HB6NBGzbyYpEF5ijT97atVq0IvM/edit?usp=sharing) |    |
 | 9     | Wed, Feb 17 | Lab |    |
 | 10    | Mon, Feb 22 | [Finding the Max/Min of a Function: Derivatives](https://github.com/Make-School-Courses/QL-1.1-Quantitative-Reasoning/blob/master/Notebooks/Calculus/partial_derivative.ipynb) |    |
-| 11    | Wed, Feb 24  | [PDF and CDF](https://docs.google.com/presentation/d/16wIu5pZnsGWHak4ci6oh-6vz-9JSePctVa9iu5qkYQo/edit?usp=sharing)   |    |
-| 12    | Mon, March 1 | [Handling Randomness in Probability, Pt 2: CDFs] |     |
+| 11    | Wed, Feb 24  | [Trigonometry](https://www.khanacademy.org/math/geometry-home/right-triangles-topic)   |    |
+| 12    | Mon, March 1 | [Modular Arithmetic](https://colab.research.google.com/drive/1-1omCGbJQhjJils_7Fyt5OVQGXRA8Kyg?usp=sharing) |     |
 | 13    | Wed, March 3 | Final Exam |     |
 
 
