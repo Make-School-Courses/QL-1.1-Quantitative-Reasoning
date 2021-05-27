@@ -95,7 +95,7 @@ See more at: [make.sc/ql-t5](https://make.sc/ql-t5)
 | 13    | Wed, March 3 | Final Exam |     |
 
 
-<!--Lessons-->
+
 [Intro to QL]: https://docs.google.com/presentation/d/1YHxlWCWymcw2Uhiz1QaLNgiZ9odVA8WzDS644JcFYNI/edit?usp=sharing                                                                                                                                                                                    
 [Data Analysis: Mean, Median, Mode, Variance, Standard Deviation]: https://docs.google.com/presentation/d/1AL15PxycbG3z0co9D0Un0vYY9gO4U8gFuNCHJ1g3Erw/edit?usp=sharing
 [Percentile & Correlation (1)]: https://docs.google.com/presentation/d/1GNBJ8Hk1yadJKaNK1GAeXmKYlKHfDjsbV6KkuJRcRSs/edit?usp=sharing
@@ -112,8 +112,8 @@ See more at: [make.sc/ql-t5](https://make.sc/ql-t5)
 [Finding the Max/Min of a Function: Derivatives]: https://github.com/Make-School-Courses/QL-1.1-Quantitative-Reasoning/blob/master/Notebooks/Calculus/partial_derivative.ipynb
 [Intro to Vectors and Matrix Multiplication]: https://github.com/Make-School-Courses/QL-1.1-Quantitative-Reasoning/blob/master/Notebooks/Linear_Algebra/linear_algebra.ipynb
 [How Numbers Deceive]: https://github.com/Make-School-Courses/QL-1.1-Quantitative-Reasoning/blob/master/Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb
- -->
-<!--Resources-->
+
+
 [khan academy: mean, median, mode]: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/mean-median-and-mode
 [khan academy: percentile]: https://www.google.com/search?q=percentile+khan+academy&oq=percentile+khan+academy&aqs=chrome..69i57j69i60l2.4528j0j4&sourceid=chrome&ie=UTF-8
 
@@ -134,13 +134,14 @@ Your Gradescope login is your Make School email, and your password can be change
 
 For Assignments details refer to [here](ql1-1.md).
 
+-->
+
 ## Evaluation
 To pass this course you must meet the following requirements:
 
-- Obtain at least 70% cumulative score on the assignments.
-- Pass the final summative assessment (minimum grade 70%).
+- Complete all required assignments
 - Actively participate in class and abide by the attendance policy.
-- If an assignment is not passing, you have 1 week to make any necessary fixes and resubmit for full points.
+- Complete all work from any absences
 
 ##  Information Resources
 
