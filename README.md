@@ -39,7 +39,41 @@ Explain, use, and implement the following statistical tools using Python
 ## Schedule
 
 
-**Course Dates:** Wed, Jan 22 – Wed, March 3, 2021 (7 weeks)
+### **M/W/F TECH Template [PLEASE REMOVE THIS HEADER BEFORE MAY 31]**
+
+**Course Dates:** Monday, May 31 – Friday, July 16, 2021 (7 weeks)
+
+**Class Times:** Monday, Wednesday, Friday at 9:30am–11:15am (19 class sessions)
+
+| Class |          Date          |                 Topics                  |
+|:-----:|:----------------------:|:---------------------------------------:|
+|  - |  Mon, May 31         | **No Class - Memorial Day** |
+|  1 |  Wed, June 2         | Data Storytelling & Journalism|
+|  2 |  Fri, June 4         | Spreadsheets: Financial Models & Stock Portfolio |
+|  3 |  Mon, June 7         | Statistical Vs. Non Statistical Questions |
+|  4 |  Wed, June 9         | CSV Project Lab Day |
+|  5 |  Fri, June 11        | Intro to Jupyter Notebooks & Kick off Titanic |
+|  6 |  Mon, June 14        | Descriptive Stats: Mean, Median, Mode |
+|  7 |  Wed, June 16        | Percentile & Correlation |
+|  8 |  Fri, June 18        | Data Journalism |
+|  9 |  Mon, June 21        | 3 Types of Bias |
+| 10 |  Wed, June 23        | How to Lie with Data |
+| 11 |  Fri, June 25        | Scientific Fabilism & Falsifiability |
+| 12 |  Mon, June 28        | The Replication Crisis & Intro to Experimental Design |
+| 13 |  Wed, June 30        | Confounders & Null Hypothesis (p-values) |
+| 14 |  Fri, July 2         | Intro to Probability & Monte Carlo Models |
+| -  |  Mon, July 5         | **No Class - Independence Day Observed** |
+| 15 |  Wed, July 7         | Predictive Stats: Linear Regression |
+| 16 |  Fri, July 9         | Linear Regression & Topical Blog Post Work Day |
+| 17 |  Mon, July 12        | Topical Blog Post Writing Day |
+| 18 |  Wed, July 14        | Topical Blog Post Draft Exchange & Feedback |
+| 19 |  Fri, July 16        | Unconference |
+
+See more at: [make.sc/ql-t5](https://make.sc/ql-t5)
+
+
+
+<!-- **Course Dates:** Wed, Jan 22 – Wed, March 3, 2021 (7 weeks)
 **Office Hours:** Mon, At CoWork on Calendar (1:30 pm to 2:30 pm).
 
 **Class Times:** Monday and Wed at 2:45–5:30pm.
@@ -78,7 +112,7 @@ Explain, use, and implement the following statistical tools using Python
 [Finding the Max/Min of a Function: Derivatives]: https://github.com/Make-School-Courses/QL-1.1-Quantitative-Reasoning/blob/master/Notebooks/Calculus/partial_derivative.ipynb
 [Intro to Vectors and Matrix Multiplication]: https://github.com/Make-School-Courses/QL-1.1-Quantitative-Reasoning/blob/master/Notebooks/Linear_Algebra/linear_algebra.ipynb
 [How Numbers Deceive]: https://github.com/Make-School-Courses/QL-1.1-Quantitative-Reasoning/blob/master/Notebooks/Numbers_Deceive/How_Numbers_Deceive.ipynb
-
+ -->
 <!--Resources-->
 [khan academy: mean, median, mode]: https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-data-statistics/mean-and-median/v/mean-median-and-mode
 [khan academy: percentile]: https://www.google.com/search?q=percentile+khan+academy&oq=percentile+khan+academy&aqs=chrome..69i57j69i60l2.4528j0j4&sourceid=chrome&ie=UTF-8
